@@ -1,0 +1,1 @@
+© 2026 Illumafy. All rights reserved. Source code is for educational and verification purposes only and may not be reproduced or distributed for commercial use.

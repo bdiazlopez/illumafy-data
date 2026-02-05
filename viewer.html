@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Illumafy Boilerplate - S&P 500 Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body class="bg-gray-100 p-8">
+    <div class="max-w-5xl mx-auto">
+        <div class="bg-white p-6 rounded-lg shadow-md mb-8">
+            <h1 class="text-2xl font-bold mb-4">Company Financial Analysis</h1>
+            
+            <div class="flex gap-4">
+                <div class="relative w-full">
+                    <input type="text" id="ticker" list="ticker-list" placeholder="Search Ticker or Company Name..." 
+                           class="border p-2 rounded w-full uppercase outline-none focus:ring-2 focus:ring-blue-500">
+                    <datalist id="ticker-list"></datalist>
+                </div>
+                <button onclick="fetchData()" class="bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700 transition">
+                    Analyze
+                </button>
+            </div>
+            <p id="loading-msg" class="text-sm text-gray-500 mt-2 italic hidden">Fetching data...</p>
+        </div>
+
+        <div id="results" class="hidden">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+                <div class="bg-white p-6 rounded-lg shadow border-l-4 border-blue-500">
+                    <p class="text-gray-400 text-xs uppercase font-bold">Revenue (Latest)</p>
+                    <p id="rev-stat" class="text-2xl font-bold text-gray-800">--</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow border-l-4 border-green-500">
+                    <p class="text-gray-400 text-xs uppercase font-bold">Net Income (Latest)</p>
+                    <p id="ni-stat" class="text-2xl font-bold text-gray-800">--</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow border-l-4 border-purple-500">
+                    <p class="text-gray-400 text-xs uppercase font-bold">Profit Margin</p>
+                    <p id="margin-stat" class="text-2xl font-bold text-gray-800">--</p>
+                </div>
+            </div>
+            <div class="bg-white p-6 rounded-lg shadow">
+                <canvas id="financeChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let myChart = null;
+
+        // LOAD SEARCH INDEX ON PAGE START
+        window.addEventListener('DOMContentLoaded', async () => {
+            try {
+                const response = await fetch('api/search_index.json');
+                const index = await response.json();
+                const list = document.getElementById('ticker-list');
+                
+                index.forEach(item => {
+                    const option = document.createElement('option');
+                    // Format: "AAPL - Apple Inc."
+                    option.value = item.t; 
+                    option.textContent = item.n; 
+                    list.appendChild(option);
+                });
+            } catch (e) {
+                console.error("Search index failed to load. Run C tool first.");
+            }
+        });
+
+        async function fetchData() {
+            const tickerInput = document.getElementById('ticker').value.split(' ')[0].toUpperCase();
+            const loading = document.getElementById('loading-msg');
+            loading.classList.remove('hidden');
+
+            try {
+                const response = await fetch(`api/v1/${tickerInput}.json`);
+                if (!response.ok) throw new Error("Not found");
+                const data = await response.json();
+                renderDashboard(data);
+                loading.classList.add('hidden');
+            } catch (e) {
+                alert("Data for " + tickerInput + " not found. Ensure C tool processed it.");
+                loading.classList.add('hidden');
+            }
+        }
+
+        function renderDashboard(data) {
+            document.getElementById('results').classList.remove('hidden');
+            const latest = data.history[0];
+            
+            // Format numbers to Billions
+            document.getElementById('rev-stat').innerText = latest.revenue ? `$${(latest.revenue / 1e9).toFixed(2)}B` : "N/A";
+            document.getElementById('ni-stat').innerText = latest.net_income ? `$${(latest.net_income / 1e9).toFixed(2)}B` : "N/A";
+            document.getElementById('margin-stat').innerText = `${latest.net_margin.toFixed(2)}%`;
+
+            const ctx = document.getElementById('financeChart').getContext('2d');
+            if (myChart) myChart.destroy();
+            
+            const chartData = [...data.history].reverse();
+
+            myChart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: chartData.map(d => d.year),
+                    datasets: [
+                        { 
+                            label: 'Revenue', 
+                            data: chartData.map(d => d.revenue), 
+                            backgroundColor: '#3b82f6',
+                            borderRadius: 4
+                        },
+                        { 
+                            label: 'Net Income', 
+                            data: chartData.map(d => d.net_income), 
+                            backgroundColor: '#10b981',
+                            borderRadius: 4
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    plugins: { legend: { position: 'top' } },
+                    scales: {
+                        y: { ticks: { callback: (v) => '$' + (v / 1e9) + 'B' } }
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+</html>
