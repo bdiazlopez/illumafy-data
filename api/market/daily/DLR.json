@@ -1,12 +1,12 @@
 {
   "ticker": "DLR",
-  "updated_at": "2026-04-14T14:23:34Z",
-  "current_price": 193.92,
-  "mfi_14": 85.23,
-  "pe_ratio": 54.05,
-  "forward_pe": 59.95,
+  "updated_at": "2026-04-14T14:49:37Z",
+  "current_price": 194.16,
+  "mfi_14": 85.27,
+  "pe_ratio": 54.16,
+  "forward_pe": 60.07,
   "52_week_low": 143.83,
-  "52_week_high": 194.06,
+  "52_week_high": 194.43,
   "dividend_rate": 4.88,
   "ex_dividend_date": "2026-03-13",
   "next_earnings_date": "2026-04-23"

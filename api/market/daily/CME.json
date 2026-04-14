@@ -1,9 +1,9 @@
 {
   "ticker": "CME",
-  "updated_at": "2026-04-14T14:22:31Z",
-  "current_price": 297.93,
-  "mfi_14": 34.15,
-  "pe_ratio": 26.7,
+  "updated_at": "2026-04-14T14:48:30Z",
+  "current_price": 297.8,
+  "mfi_14": 34.04,
+  "pe_ratio": 26.71,
   "forward_pe": 23.13,
   "52_week_low": 251.9,
   "52_week_high": 329.16,
