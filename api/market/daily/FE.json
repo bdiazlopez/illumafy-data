@@ -1,0 +1,13 @@
+{
+  "ticker": "FE",
+  "updated_at": "2026-04-14T01:50:31Z",
+  "current_price": 51.05,
+  "mfi_14": 60.13,
+  "pe_ratio": 29.01,
+  "forward_pe": 17.33,
+  "52_week_low": 39.28,
+  "52_week_high": 52.34,
+  "dividend_rate": 1.86,
+  "ex_dividend_date": "2026-05-07",
+  "next_earnings_date": "2026-04-28"
+}

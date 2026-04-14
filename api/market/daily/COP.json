@@ -1,0 +1,13 @@
+{
+  "ticker": "COP",
+  "updated_at": "2026-04-14T01:46:25Z",
+  "current_price": 123.62,
+  "mfi_14": 45.06,
+  "pe_ratio": 19.47,
+  "forward_pe": 15.5,
+  "52_week_low": 84.28,
+  "52_week_high": 135.87,
+  "dividend_rate": 3.36,
+  "ex_dividend_date": "2026-02-18",
+  "next_earnings_date": "2026-04-30"
+}

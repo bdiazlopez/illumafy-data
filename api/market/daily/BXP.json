@@ -1,0 +1,13 @@
+{
+  "ticker": "BXP",
+  "updated_at": "2026-04-14T01:53:30Z",
+  "current_price": 53.57,
+  "mfi_14": 58.94,
+  "pe_ratio": 30.79,
+  "forward_pe": 25.69,
+  "52_week_low": 49.72,
+  "52_week_high": 79.33,
+  "dividend_rate": 3.08,
+  "ex_dividend_date": "2026-03-31",
+  "next_earnings_date": "2026-04-28"
+}

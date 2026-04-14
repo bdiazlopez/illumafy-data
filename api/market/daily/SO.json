@@ -1,0 +1,13 @@
+{
+  "ticker": "SO",
+  "updated_at": "2026-04-14T01:47:03Z",
+  "current_price": 95.93,
+  "mfi_14": 56.8,
+  "pe_ratio": 24.47,
+  "forward_pe": 19.51,
+  "52_week_low": 83.09,
+  "52_week_high": 100.84,
+  "dividend_rate": 2.96,
+  "ex_dividend_date": "2026-02-17",
+  "next_earnings_date": "2026-04-30"
+}

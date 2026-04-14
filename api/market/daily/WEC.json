@@ -1,0 +1,13 @@
+{
+  "ticker": "WEC",
+  "updated_at": "2026-04-14T01:49:40Z",
+  "current_price": 116.32,
+  "mfi_14": 61.73,
+  "pe_ratio": 24.18,
+  "forward_pe": 19.36,
+  "52_week_low": 100.61,
+  "52_week_high": 119.62,
+  "dividend_rate": 3.81,
+  "ex_dividend_date": "2026-02-13",
+  "next_earnings_date": "2026-05-05"
+}

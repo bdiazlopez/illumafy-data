@@ -1,0 +1,13 @@
+{
+  "ticker": "OMC",
+  "updated_at": "2026-04-14T01:51:21Z",
+  "current_price": 76.0,
+  "mfi_14": 65.99,
+  "pe_ratio": null,
+  "forward_pe": 6.1,
+  "52_week_low": 66.33,
+  "52_week_high": 87.17,
+  "dividend_rate": 3.2,
+  "ex_dividend_date": "2026-03-11",
+  "next_earnings_date": "2026-04-28"
+}

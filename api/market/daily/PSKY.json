@@ -1,0 +1,13 @@
+{
+  "ticker": "PSKY",
+  "updated_at": "2026-04-14T01:53:02Z",
+  "current_price": 10.73,
+  "mfi_14": 72.2,
+  "pe_ratio": 357.67,
+  "forward_pe": 11.45,
+  "52_week_low": 8.62,
+  "52_week_high": 20.86,
+  "dividend_rate": 0.2,
+  "ex_dividend_date": "2026-03-16",
+  "next_earnings_date": "2026-05-04"
+}

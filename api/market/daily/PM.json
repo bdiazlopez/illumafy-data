@@ -1,0 +1,13 @@
+{
+  "ticker": "PM",
+  "updated_at": "2026-04-14T01:45:59Z",
+  "current_price": 162.75,
+  "mfi_14": 67.1,
+  "pe_ratio": 22.08,
+  "forward_pe": 17.75,
+  "52_week_low": 142.11,
+  "52_week_high": 191.3,
+  "dividend_rate": 5.88,
+  "ex_dividend_date": "2026-03-19",
+  "next_earnings_date": "2026-04-22"
+}

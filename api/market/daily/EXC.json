@@ -1,0 +1,13 @@
+{
+  "ticker": "EXC",
+  "updated_at": "2026-04-14T01:48:59Z",
+  "current_price": 48.15,
+  "mfi_14": 56.37,
+  "pe_ratio": 17.64,
+  "forward_pe": 15.8,
+  "52_week_low": 41.71,
+  "52_week_high": 50.65,
+  "dividend_rate": 1.68,
+  "ex_dividend_date": "2026-03-02",
+  "next_earnings_date": "2026-05-06"
+}

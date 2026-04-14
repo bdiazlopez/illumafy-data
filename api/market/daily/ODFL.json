@@ -1,0 +1,13 @@
+{
+  "ticker": "ODFL",
+  "updated_at": "2026-04-14T01:49:26Z",
+  "current_price": 207.63,
+  "mfi_14": 69.24,
+  "pe_ratio": 42.99,
+  "forward_pe": 34.18,
+  "52_week_low": 126.01,
+  "52_week_high": 221.63,
+  "dividend_rate": 1.16,
+  "ex_dividend_date": "2026-03-04",
+  "next_earnings_date": "2026-04-29"
+}

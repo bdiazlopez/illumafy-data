@@ -1,0 +1,13 @@
+{
+  "ticker": "KDP",
+  "updated_at": "2026-04-14T01:49:56Z",
+  "current_price": 26.04,
+  "mfi_14": 56.01,
+  "pe_ratio": 17.02,
+  "forward_pe": 10.34,
+  "52_week_low": 24.88,
+  "52_week_high": 35.94,
+  "dividend_rate": 0.92,
+  "ex_dividend_date": "2026-03-27",
+  "next_earnings_date": "2026-04-23"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "MCD",
+  "updated_at": "2026-04-14T01:46:04Z",
+  "current_price": 304.51,
+  "mfi_14": 34.95,
+  "pe_ratio": 25.48,
+  "forward_pe": 21.2,
+  "52_week_low": 283.47,
+  "52_week_high": 341.75,
+  "dividend_rate": 7.44,
+  "ex_dividend_date": "2026-03-03",
+  "next_earnings_date": "2026-05-07"
+}

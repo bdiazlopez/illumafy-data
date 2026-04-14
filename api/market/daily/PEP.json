@@ -1,0 +1,13 @@
+{
+  "ticker": "PEP",
+  "updated_at": "2026-04-14T01:46:06Z",
+  "current_price": 155.88,
+  "mfi_14": 56.33,
+  "pe_ratio": 25.98,
+  "forward_pe": 17.05,
+  "52_week_low": 127.6,
+  "52_week_high": 171.48,
+  "dividend_rate": 5.69,
+  "ex_dividend_date": "2026-03-06",
+  "next_earnings_date": "2026-04-16"
+}

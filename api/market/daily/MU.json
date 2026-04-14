@@ -1,0 +1,13 @@
+{
+  "ticker": "MU",
+  "updated_at": "2026-04-14T01:45:35Z",
+  "current_price": 426.56,
+  "mfi_14": 47.54,
+  "pe_ratio": 20.12,
+  "forward_pe": 4.35,
+  "52_week_low": 65.65,
+  "52_week_high": 471.34,
+  "dividend_rate": 0.6,
+  "ex_dividend_date": "2026-03-30",
+  "next_earnings_date": "2026-03-18"
+}

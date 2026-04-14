@@ -1,0 +1,13 @@
+{
+  "ticker": "DUK",
+  "updated_at": "2026-04-14T01:47:11Z",
+  "current_price": 130.4,
+  "mfi_14": 57.16,
+  "pe_ratio": 20.67,
+  "forward_pe": 18.22,
+  "52_week_low": 111.22,
+  "52_week_high": 134.49,
+  "dividend_rate": 4.26,
+  "ex_dividend_date": "2026-02-13",
+  "next_earnings_date": "2026-05-05"
+}

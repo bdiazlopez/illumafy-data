@@ -1,0 +1,13 @@
+{
+  "ticker": "ROK",
+  "updated_at": "2026-04-14T01:49:27Z",
+  "current_price": 407.78,
+  "mfi_14": 66.29,
+  "pe_ratio": 46.5,
+  "forward_pe": 29.69,
+  "52_week_low": 222.06,
+  "52_week_high": 438.72,
+  "dividend_rate": 5.52,
+  "ex_dividend_date": "2026-02-23",
+  "next_earnings_date": "2026-02-05"
+}

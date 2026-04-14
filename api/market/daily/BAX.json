@@ -1,0 +1,13 @@
+{
+  "ticker": "BAX",
+  "updated_at": "2026-04-14T01:53:34Z",
+  "current_price": 17.63,
+  "mfi_14": 46.25,
+  "pe_ratio": null,
+  "forward_pe": 8.71,
+  "52_week_low": 15.73,
+  "52_week_high": 32.68,
+  "dividend_rate": 0.36,
+  "ex_dividend_date": "2026-02-27",
+  "next_earnings_date": "2026-04-30"
+}

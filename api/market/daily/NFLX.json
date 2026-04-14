@@ -1,0 +1,13 @@
+{
+  "ticker": "NFLX",
+  "updated_at": "2026-04-14T01:45:36Z",
+  "current_price": 103.16,
+  "mfi_14": 82.99,
+  "pe_ratio": 40.77,
+  "forward_pe": 26.68,
+  "52_week_low": 75.01,
+  "52_week_high": 134.12,
+  "dividend_rate": "N/A",
+  "ex_dividend_date": null,
+  "next_earnings_date": "2026-04-16"
+}

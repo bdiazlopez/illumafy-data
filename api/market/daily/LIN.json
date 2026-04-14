@@ -1,0 +1,13 @@
+{
+  "ticker": "LIN",
+  "updated_at": "2026-04-14T01:46:02Z",
+  "current_price": 508.87,
+  "mfi_14": 53.14,
+  "pe_ratio": 34.85,
+  "forward_pe": 26.12,
+  "52_week_low": 387.78,
+  "52_week_high": 510.65,
+  "dividend_rate": 6.4,
+  "ex_dividend_date": "2026-03-11",
+  "next_earnings_date": "2026-05-01"
+}

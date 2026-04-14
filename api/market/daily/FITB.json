@@ -1,0 +1,13 @@
+{
+  "ticker": "FITB",
+  "updated_at": "2026-04-14T01:49:22Z",
+  "current_price": 49.84,
+  "mfi_14": 62.05,
+  "pe_ratio": 14.12,
+  "forward_pe": 10.17,
+  "52_week_low": 32.79,
+  "52_week_high": 55.44,
+  "dividend_rate": 1.6,
+  "ex_dividend_date": "2026-03-31",
+  "next_earnings_date": "2026-04-17"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "PRU",
+  "updated_at": "2026-04-14T01:49:59Z",
+  "current_price": 98.48,
+  "mfi_14": 60.66,
+  "pe_ratio": 9.86,
+  "forward_pe": 6.46,
+  "52_week_low": 91.89,
+  "52_week_high": 119.76,
+  "dividend_rate": 5.45,
+  "ex_dividend_date": "2026-02-17",
+  "next_earnings_date": "2026-05-05"
+}

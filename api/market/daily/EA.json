@@ -1,0 +1,13 @@
+{
+  "ticker": "EA",
+  "updated_at": "2026-04-14T01:48:56Z",
+  "current_price": 202.56,
+  "mfi_14": 61.21,
+  "pe_ratio": 75.87,
+  "forward_pe": 21.92,
+  "52_week_low": 141.04,
+  "52_week_high": 204.89,
+  "dividend_rate": 0.76,
+  "ex_dividend_date": "2026-02-25",
+  "next_earnings_date": "2026-02-03"
+}

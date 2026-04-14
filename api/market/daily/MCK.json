@@ -1,0 +1,13 @@
+{
+  "ticker": "MCK",
+  "updated_at": "2026-04-14T01:47:08Z",
+  "current_price": 864.57,
+  "mfi_14": 41.08,
+  "pe_ratio": 24.94,
+  "forward_pe": 19.59,
+  "52_week_low": 637.0,
+  "52_week_high": 999.0,
+  "dividend_rate": 3.28,
+  "ex_dividend_date": "2026-03-02",
+  "next_earnings_date": "2026-05-07"
+}

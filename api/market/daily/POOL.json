@@ -1,0 +1,13 @@
+{
+  "ticker": "POOL",
+  "updated_at": "2026-04-14T01:53:45Z",
+  "current_price": 217.33,
+  "mfi_14": 55.84,
+  "pe_ratio": 20.03,
+  "forward_pe": 18.27,
+  "52_week_low": 195.49,
+  "52_week_high": 345.0,
+  "dividend_rate": 5.0,
+  "ex_dividend_date": "2026-03-12",
+  "next_earnings_date": "2026-04-23"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "KHC",
+  "updated_at": "2026-04-14T01:50:47Z",
+  "current_price": 22.42,
+  "mfi_14": 72.09,
+  "pe_ratio": null,
+  "forward_pe": 10.47,
+  "52_week_low": 21.04,
+  "52_week_high": 30.42,
+  "dividend_rate": 1.6,
+  "ex_dividend_date": "2026-03-06",
+  "next_earnings_date": "2026-05-06"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "ROST",
+  "updated_at": "2026-04-14T01:48:08Z",
+  "current_price": 220.95,
+  "mfi_14": 58.67,
+  "pe_ratio": 33.43,
+  "forward_pe": 27.32,
+  "52_week_low": 124.49,
+  "52_week_high": 226.64,
+  "dividend_rate": 1.78,
+  "ex_dividend_date": "2026-03-13",
+  "next_earnings_date": "2026-03-03"
+}

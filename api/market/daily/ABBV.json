@@ -1,0 +1,13 @@
+{
+  "ticker": "ABBV",
+  "updated_at": "2026-04-14T01:45:39Z",
+  "current_price": 206.47,
+  "mfi_14": 49.43,
+  "pe_ratio": 87.12,
+  "forward_pe": 12.83,
+  "52_week_low": 168.54,
+  "52_week_high": 244.81,
+  "dividend_rate": 6.92,
+  "ex_dividend_date": "2026-04-15",
+  "next_earnings_date": "2026-04-29"
+}

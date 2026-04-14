@@ -1,0 +1,13 @@
+{
+  "ticker": "KEY",
+  "updated_at": "2026-04-14T01:51:28Z",
+  "current_price": 21.72,
+  "mfi_14": 68.92,
+  "pe_ratio": 14.29,
+  "forward_pe": 10.21,
+  "52_week_low": 13.68,
+  "52_week_high": 23.35,
+  "dividend_rate": 0.82,
+  "ex_dividend_date": "2026-03-03",
+  "next_earnings_date": "2026-04-16"
+}

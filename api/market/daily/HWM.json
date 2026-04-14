@@ -1,0 +1,13 @@
+{
+  "ticker": "HWM",
+  "updated_at": "2026-04-14T01:47:20Z",
+  "current_price": 256.14,
+  "mfi_14": 68.86,
+  "pe_ratio": 69.04,
+  "forward_pe": 45.85,
+  "52_week_low": 118.09,
+  "52_week_high": 267.31,
+  "dividend_rate": 0.46,
+  "ex_dividend_date": "2026-02-06",
+  "next_earnings_date": "2026-05-07"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "EIX",
+  "updated_at": "2026-04-14T01:50:42Z",
+  "current_price": 72.39,
+  "mfi_14": 66.53,
+  "pe_ratio": 6.27,
+  "forward_pe": 11.11,
+  "52_week_low": 47.73,
+  "52_week_high": 76.22,
+  "dividend_rate": 3.51,
+  "ex_dividend_date": "2026-04-07",
+  "next_earnings_date": "2026-04-28"
+}

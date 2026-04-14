@@ -1,0 +1,13 @@
+{
+  "ticker": "DVN",
+  "updated_at": "2026-04-14T01:50:18Z",
+  "current_price": 47.27,
+  "mfi_14": 50.32,
+  "pe_ratio": 11.34,
+  "forward_pe": 9.2,
+  "52_week_low": 28.09,
+  "52_week_high": 52.71,
+  "dividend_rate": 0.96,
+  "ex_dividend_date": "2026-03-13",
+  "next_earnings_date": "2026-05-05"
+}

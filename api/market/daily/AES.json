@@ -1,0 +1,13 @@
+{
+  "ticker": "AES",
+  "updated_at": "2026-04-14T01:53:23Z",
+  "current_price": 14.4,
+  "mfi_14": 70.55,
+  "pe_ratio": 10.99,
+  "forward_pe": 6.03,
+  "52_week_low": 9.46,
+  "52_week_high": 17.65,
+  "dividend_rate": 0.7,
+  "ex_dividend_date": "2026-05-01",
+  "next_earnings_date": "2026-03-02"
+}

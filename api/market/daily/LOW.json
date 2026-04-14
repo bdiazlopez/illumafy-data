@@ -1,0 +1,13 @@
+{
+  "ticker": "LOW",
+  "updated_at": "2026-04-14T01:46:43Z",
+  "current_price": 247.08,
+  "mfi_14": 63.53,
+  "pe_ratio": 20.83,
+  "forward_pe": 18.08,
+  "52_week_low": 210.33,
+  "52_week_high": 293.06,
+  "dividend_rate": 4.8,
+  "ex_dividend_date": "2026-04-22",
+  "next_earnings_date": "2026-05-20"
+}

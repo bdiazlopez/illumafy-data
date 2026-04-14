@@ -1,0 +1,13 @@
+{
+  "ticker": "ESS",
+  "updated_at": "2026-04-14T01:52:19Z",
+  "current_price": 248.95,
+  "mfi_14": 76.91,
+  "pe_ratio": 23.91,
+  "forward_pe": 40.51,
+  "52_week_low": 238.46,
+  "52_week_high": 294.09,
+  "dividend_rate": 10.3,
+  "ex_dividend_date": "2026-03-31",
+  "next_earnings_date": "2026-04-28"
+}

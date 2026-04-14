@@ -1,0 +1,13 @@
+{
+  "ticker": "AMZN",
+  "updated_at": "2026-04-14T01:45:22Z",
+  "current_price": 239.89,
+  "mfi_14": 67.11,
+  "pe_ratio": 33.41,
+  "forward_pe": 25.56,
+  "52_week_low": 165.29,
+  "52_week_high": 258.6,
+  "dividend_rate": "N/A",
+  "ex_dividend_date": null,
+  "next_earnings_date": "2026-02-05"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "TSLA",
+  "updated_at": "2026-04-14T01:45:25Z",
+  "current_price": 352.42,
+  "mfi_14": 47.86,
+  "pe_ratio": 326.31,
+  "forward_pe": 128.96,
+  "52_week_low": 222.79,
+  "52_week_high": 498.83,
+  "dividend_rate": "N/A",
+  "ex_dividend_date": null,
+  "next_earnings_date": "2026-04-22"
+}

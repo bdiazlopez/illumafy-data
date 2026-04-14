@@ -1,0 +1,13 @@
+{
+  "ticker": "TSCO",
+  "updated_at": "2026-04-14T01:51:23Z",
+  "current_price": 45.44,
+  "mfi_14": 44.58,
+  "pe_ratio": 22.06,
+  "forward_pe": 18.93,
+  "52_week_low": 43.23,
+  "52_week_high": 63.99,
+  "dividend_rate": 0.96,
+  "ex_dividend_date": "2026-02-24",
+  "next_earnings_date": "2026-04-21"
+}

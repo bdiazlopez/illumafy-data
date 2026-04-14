@@ -1,0 +1,13 @@
+{
+  "ticker": "NDSN",
+  "updated_at": "2026-04-14T01:52:37Z",
+  "current_price": 278.09,
+  "mfi_14": 60.5,
+  "pe_ratio": 30.06,
+  "forward_pe": 22.45,
+  "52_week_low": 174.59,
+  "52_week_high": 305.28,
+  "dividend_rate": 3.28,
+  "ex_dividend_date": "2026-03-19",
+  "next_earnings_date": "2026-02-18"
+}

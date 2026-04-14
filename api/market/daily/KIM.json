@@ -1,0 +1,13 @@
+{
+  "ticker": "KIM",
+  "updated_at": "2026-04-14T01:52:29Z",
+  "current_price": 23.2,
+  "mfi_14": 53.25,
+  "pe_ratio": 28.29,
+  "forward_pe": 26.73,
+  "52_week_low": 19.59,
+  "52_week_high": 23.91,
+  "dividend_rate": 1.04,
+  "ex_dividend_date": "2026-03-06",
+  "next_earnings_date": "2026-04-30"
+}

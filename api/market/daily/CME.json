@@ -1,0 +1,13 @@
+{
+  "ticker": "CME",
+  "updated_at": "2026-04-14T01:46:58Z",
+  "current_price": 300.59,
+  "mfi_14": 32.37,
+  "pe_ratio": 26.96,
+  "forward_pe": 23.35,
+  "52_week_low": 251.9,
+  "52_week_high": 329.16,
+  "dividend_rate": 5.2,
+  "ex_dividend_date": "2026-03-10",
+  "next_earnings_date": "2026-04-22"
+}

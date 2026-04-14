@@ -1,0 +1,13 @@
+{
+  "ticker": "SPGI",
+  "updated_at": "2026-04-14T01:46:44Z",
+  "current_price": 430.08,
+  "mfi_14": 43.98,
+  "pe_ratio": 29.32,
+  "forward_pe": 19.49,
+  "52_week_low": 381.61,
+  "52_week_high": 579.05,
+  "dividend_rate": 3.88,
+  "ex_dividend_date": "2026-02-25",
+  "next_earnings_date": "2026-04-28"
+}

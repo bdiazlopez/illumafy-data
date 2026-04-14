@@ -1,0 +1,13 @@
+{
+  "ticker": "PNW",
+  "updated_at": "2026-04-14T01:53:01Z",
+  "current_price": 102.63,
+  "mfi_14": 69.23,
+  "pe_ratio": 20.32,
+  "forward_pe": 18.27,
+  "52_week_low": 85.32,
+  "52_week_high": 104.92,
+  "dividend_rate": 3.64,
+  "ex_dividend_date": "2026-02-02",
+  "next_earnings_date": "2026-05-04"
+}

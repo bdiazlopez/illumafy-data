@@ -1,0 +1,13 @@
+{
+  "ticker": "DHI",
+  "updated_at": "2026-04-14T01:49:35Z",
+  "current_price": 144.33,
+  "mfi_14": 36.51,
+  "pe_ratio": 13.14,
+  "forward_pe": 11.96,
+  "52_week_low": 114.17,
+  "52_week_high": 184.55,
+  "dividend_rate": 1.8,
+  "ex_dividend_date": "2026-02-05",
+  "next_earnings_date": "2026-04-21"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "HAL",
+  "updated_at": "2026-04-14T01:50:07Z",
+  "current_price": 38.61,
+  "mfi_14": 52.2,
+  "pe_ratio": 25.74,
+  "forward_pe": 14.27,
+  "52_week_low": 19.22,
+  "52_week_high": 41.18,
+  "dividend_rate": 0.68,
+  "ex_dividend_date": "2026-03-04",
+  "next_earnings_date": "2026-04-21"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "APO",
+  "updated_at": "2026-04-14T01:48:34Z",
+  "current_price": 109.95,
+  "mfi_14": 36.13,
+  "pe_ratio": 19.85,
+  "forward_pe": 10.32,
+  "52_week_low": 99.56,
+  "52_week_high": 157.28,
+  "dividend_rate": 2.04,
+  "ex_dividend_date": "2026-02-19",
+  "next_earnings_date": "2026-05-06"
+}

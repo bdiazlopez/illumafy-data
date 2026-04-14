@@ -1,0 +1,13 @@
+{
+  "ticker": "LYB",
+  "updated_at": "2026-04-14T01:50:58Z",
+  "current_price": 75.51,
+  "mfi_14": 59.12,
+  "pe_ratio": null,
+  "forward_pe": 14.44,
+  "52_week_low": 41.58,
+  "52_week_high": 83.94,
+  "dividend_rate": 4.8,
+  "ex_dividend_date": "2026-03-02",
+  "next_earnings_date": "2026-05-01"
+}

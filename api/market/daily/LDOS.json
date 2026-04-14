@@ -1,0 +1,13 @@
+{
+  "ticker": "LDOS",
+  "updated_at": "2026-04-14T01:51:50Z",
+  "current_price": 157.59,
+  "mfi_14": 35.41,
+  "pe_ratio": 14.15,
+  "forward_pe": 12.07,
+  "52_week_low": 136.91,
+  "52_week_high": 205.77,
+  "dividend_rate": 1.66,
+  "ex_dividend_date": "2026-03-16",
+  "next_earnings_date": "2026-05-05"
+}

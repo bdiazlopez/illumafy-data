@@ -1,0 +1,13 @@
+{
+  "ticker": "CTRA",
+  "updated_at": "2026-04-14T01:50:54Z",
+  "current_price": 33.01,
+  "mfi_14": 48.88,
+  "pe_ratio": 14.74,
+  "forward_pe": 11.23,
+  "52_week_low": 22.33,
+  "52_week_high": 36.88,
+  "dividend_rate": 0.88,
+  "ex_dividend_date": "2026-03-11",
+  "next_earnings_date": "2026-02-26"
+}

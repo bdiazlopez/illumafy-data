@@ -1,0 +1,13 @@
+{
+  "ticker": "MTB",
+  "updated_at": "2026-04-14T01:50:13Z",
+  "current_price": 221.29,
+  "mfi_14": 65.95,
+  "pe_ratio": 13.02,
+  "forward_pe": 10.52,
+  "52_week_low": 154.0,
+  "52_week_high": 239.0,
+  "dividend_rate": 6.0,
+  "ex_dividend_date": "2026-03-02",
+  "next_earnings_date": "2026-04-15"
+}

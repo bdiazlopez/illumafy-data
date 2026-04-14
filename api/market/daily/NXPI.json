@@ -1,0 +1,13 @@
+{
+  "ticker": "NXPI",
+  "updated_at": "2026-04-14T01:49:06Z",
+  "current_price": 208.0,
+  "mfi_14": 54.22,
+  "pe_ratio": 26.16,
+  "forward_pe": 12.41,
+  "52_week_low": 163.16,
+  "52_week_high": 256.36,
+  "dividend_rate": 4.06,
+  "ex_dividend_date": "2026-03-25",
+  "next_earnings_date": "2026-04-28"
+}

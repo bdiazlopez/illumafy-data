@@ -1,0 +1,13 @@
+{
+  "ticker": "MSCI",
+  "updated_at": "2026-04-14T01:49:33Z",
+  "current_price": 552.75,
+  "mfi_14": 54.88,
+  "pe_ratio": 35.27,
+  "forward_pe": 25.09,
+  "52_week_low": 501.08,
+  "52_week_high": 626.28,
+  "dividend_rate": 8.2,
+  "ex_dividend_date": "2026-02-13",
+  "next_earnings_date": "2026-04-21"
+}

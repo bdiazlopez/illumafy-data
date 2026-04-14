@@ -1,0 +1,13 @@
+{
+  "ticker": "J",
+  "updated_at": "2026-04-14T01:52:35Z",
+  "current_price": 125.31,
+  "mfi_14": 34.51,
+  "pe_ratio": 33.15,
+  "forward_pe": 15.61,
+  "52_week_low": 113.14,
+  "52_week_high": 168.44,
+  "dividend_rate": 1.44,
+  "ex_dividend_date": "2026-02-20",
+  "next_earnings_date": "2026-02-03"
+}

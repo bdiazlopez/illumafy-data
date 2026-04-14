@@ -1,0 +1,13 @@
+{
+  "ticker": "CI",
+  "updated_at": "2026-04-14T01:47:59Z",
+  "current_price": 275.12,
+  "mfi_14": 67.57,
+  "pe_ratio": 12.4,
+  "forward_pe": 8.23,
+  "52_week_low": 239.51,
+  "52_week_high": 350.0,
+  "dividend_rate": 6.24,
+  "ex_dividend_date": "2026-03-05",
+  "next_earnings_date": "2026-04-30"
+}

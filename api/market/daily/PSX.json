@@ -1,0 +1,13 @@
+{
+  "ticker": "PSX",
+  "updated_at": "2026-04-14T01:48:07Z",
+  "current_price": 160.4,
+  "mfi_14": 41.78,
+  "pe_ratio": 14.85,
+  "forward_pe": 10.69,
+  "52_week_low": 95.7,
+  "52_week_high": 190.61,
+  "dividend_rate": 5.08,
+  "ex_dividend_date": "2026-02-23",
+  "next_earnings_date": "2026-04-29"
+}

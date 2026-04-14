@@ -1,0 +1,13 @@
+{
+  "ticker": "MPC",
+  "updated_at": "2026-04-14T01:48:03Z",
+  "current_price": 225.29,
+  "mfi_14": 40.59,
+  "pe_ratio": 17.04,
+  "forward_pe": 12.2,
+  "52_week_low": 121.69,
+  "52_week_high": 255.77,
+  "dividend_rate": 3.82,
+  "ex_dividend_date": "2026-02-18",
+  "next_earnings_date": "2026-05-05"
+}

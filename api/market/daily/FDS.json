@@ -1,0 +1,13 @@
+{
+  "ticker": "FDS",
+  "updated_at": "2026-04-14T01:53:37Z",
+  "current_price": 226.42,
+  "mfi_14": 59.67,
+  "pe_ratio": 14.58,
+  "forward_pe": 11.67,
+  "52_week_low": 185.0,
+  "52_week_high": 474.79,
+  "dividend_rate": 4.4,
+  "ex_dividend_date": "2026-02-27",
+  "next_earnings_date": "2026-03-31"
+}

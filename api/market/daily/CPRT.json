@@ -1,0 +1,13 @@
+{
+  "ticker": "CPRT",
+  "updated_at": "2026-04-14T01:50:11Z",
+  "current_price": 33.25,
+  "mfi_14": 56.67,
+  "pe_ratio": 20.91,
+  "forward_pe": 19.79,
+  "52_week_low": 32.2,
+  "52_week_high": 63.85,
+  "dividend_rate": "N/A",
+  "ex_dividend_date": null,
+  "next_earnings_date": "2026-02-19"
+}

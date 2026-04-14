@@ -1,0 +1,13 @@
+{
+  "ticker": "CPT",
+  "updated_at": "2026-04-14T01:53:17Z",
+  "current_price": 100.82,
+  "mfi_14": 62.03,
+  "pe_ratio": 28.48,
+  "forward_pe": 57.77,
+  "52_week_low": 96.53,
+  "52_week_high": 121.33,
+  "dividend_rate": 4.24,
+  "ex_dividend_date": "2026-03-31",
+  "next_earnings_date": "2026-04-30"
+}

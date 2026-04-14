@@ -1,0 +1,13 @@
+{
+  "ticker": "ALLE",
+  "updated_at": "2026-04-14T01:53:04Z",
+  "current_price": 147.21,
+  "mfi_14": 50.2,
+  "pe_ratio": 19.81,
+  "forward_pe": 15.46,
+  "52_week_low": 122.14,
+  "52_week_high": 183.11,
+  "dividend_rate": 2.08,
+  "ex_dividend_date": "2026-03-13",
+  "next_earnings_date": "2026-02-17"
+}

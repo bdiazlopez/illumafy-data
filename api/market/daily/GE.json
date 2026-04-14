@@ -1,0 +1,13 @@
+{
+  "ticker": "GE",
+  "updated_at": "2026-04-14T01:45:48Z",
+  "current_price": 311.9,
+  "mfi_14": 57.58,
+  "pe_ratio": 38.75,
+  "forward_pe": 36.22,
+  "52_week_low": 176.02,
+  "52_week_high": 348.48,
+  "dividend_rate": 1.88,
+  "ex_dividend_date": "2026-03-09",
+  "next_earnings_date": "2026-04-21"
+}

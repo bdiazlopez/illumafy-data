@@ -1,0 +1,13 @@
+{
+  "ticker": "WY",
+  "updated_at": "2026-04-14T01:52:18Z",
+  "current_price": 24.82,
+  "mfi_14": 64.96,
+  "pe_ratio": 55.16,
+  "forward_pe": 36.03,
+  "52_week_low": 21.16,
+  "52_week_high": 27.86,
+  "dividend_rate": 0.84,
+  "ex_dividend_date": "2026-03-10",
+  "next_earnings_date": "2026-04-30"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "CARR",
+  "updated_at": "2026-04-14T01:49:12Z",
+  "current_price": 64.32,
+  "mfi_14": 49.25,
+  "pe_ratio": 37.4,
+  "forward_pe": 20.28,
+  "52_week_low": 50.24,
+  "52_week_high": 81.09,
+  "dividend_rate": 0.96,
+  "ex_dividend_date": "2026-01-20",
+  "next_earnings_date": "2026-04-30"
+}

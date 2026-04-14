@@ -1,0 +1,13 @@
+{
+  "ticker": "GEV",
+  "updated_at": "2026-04-14T01:46:00Z",
+  "current_price": 991.12,
+  "mfi_14": 70.05,
+  "pe_ratio": 56.19,
+  "forward_pe": 43.29,
+  "52_week_low": 306.21,
+  "52_week_high": 1007.38,
+  "dividend_rate": 1.5,
+  "ex_dividend_date": "2026-03-17",
+  "next_earnings_date": "2026-04-22"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "VMC",
+  "updated_at": "2026-04-14T01:49:50Z",
+  "current_price": 297.15,
+  "mfi_14": 74.9,
+  "pe_ratio": 36.42,
+  "forward_pe": 27.42,
+  "52_week_low": 231.76,
+  "52_week_high": 331.09,
+  "dividend_rate": 2.08,
+  "ex_dividend_date": "2026-03-09",
+  "next_earnings_date": "2026-04-29"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "AIZ",
+  "updated_at": "2026-04-14T01:53:15Z",
+  "current_price": 222.4,
+  "mfi_14": 63.26,
+  "pe_ratio": 13.14,
+  "forward_pe": 10.06,
+  "52_week_low": 181.75,
+  "52_week_high": 246.31,
+  "dividend_rate": 3.36,
+  "ex_dividend_date": "2026-02-17",
+  "next_earnings_date": "2026-05-05"
+}

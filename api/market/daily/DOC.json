@@ -1,0 +1,13 @@
+{
+  "ticker": "DOC",
+  "updated_at": "2026-04-14T01:53:08Z",
+  "current_price": 16.5,
+  "mfi_14": 38.95,
+  "pe_ratio": 165.0,
+  "forward_pe": 82.5,
+  "52_week_low": 15.71,
+  "52_week_high": 19.68,
+  "dividend_rate": 1.22,
+  "ex_dividend_date": "2026-04-17",
+  "next_earnings_date": "2026-05-05"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "IBKR",
+  "updated_at": "2026-04-14T01:46:53Z",
+  "current_price": 74.55,
+  "mfi_14": 45.55,
+  "pe_ratio": 33.58,
+  "forward_pe": 26.71,
+  "52_week_low": 38.1,
+  "52_week_high": 79.18,
+  "dividend_rate": 0.32,
+  "ex_dividend_date": "2026-02-27",
+  "next_earnings_date": "2026-04-21"
+}

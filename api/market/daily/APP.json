@@ -1,0 +1,13 @@
+{
+  "ticker": "APP",
+  "updated_at": "2026-04-14T01:46:38Z",
+  "current_price": 417.45,
+  "mfi_14": 39.93,
+  "pe_ratio": 38.9,
+  "forward_pe": 20.61,
+  "52_week_low": 222.02,
+  "52_week_high": 745.61,
+  "dividend_rate": "N/A",
+  "ex_dividend_date": null,
+  "next_earnings_date": "2026-05-06"
+}

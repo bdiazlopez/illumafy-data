@@ -1,0 +1,13 @@
+{
+  "ticker": "IR",
+  "updated_at": "2026-04-14T01:50:14Z",
+  "current_price": 87.69,
+  "mfi_14": 54.61,
+  "pe_ratio": 58.85,
+  "forward_pe": 22.56,
+  "52_week_low": 68.97,
+  "52_week_high": 100.96,
+  "dividend_rate": 0.08,
+  "ex_dividend_date": "2026-03-04",
+  "next_earnings_date": "2026-04-28"
+}

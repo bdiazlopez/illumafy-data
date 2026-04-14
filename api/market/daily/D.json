@@ -1,0 +1,13 @@
+{
+  "ticker": "D",
+  "updated_at": "2026-04-14T01:48:46Z",
+  "current_price": 62.97,
+  "mfi_14": 80.69,
+  "pe_ratio": 18.15,
+  "forward_pe": 16.51,
+  "52_week_low": 51.42,
+  "52_week_high": 67.57,
+  "dividend_rate": 2.67,
+  "ex_dividend_date": "2026-02-27",
+  "next_earnings_date": "2026-05-01"
+}

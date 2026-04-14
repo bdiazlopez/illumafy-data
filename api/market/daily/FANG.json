@@ -1,0 +1,13 @@
+{
+  "ticker": "FANG",
+  "updated_at": "2026-04-14T01:48:45Z",
+  "current_price": 189.1,
+  "mfi_14": 55.5,
+  "pe_ratio": 33.06,
+  "forward_pe": 12.09,
+  "52_week_low": 125.87,
+  "52_week_high": 204.91,
+  "dividend_rate": 4.2,
+  "ex_dividend_date": "2026-03-05",
+  "next_earnings_date": "2026-05-04"
+}

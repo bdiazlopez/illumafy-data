@@ -1,0 +1,13 @@
+{
+  "ticker": "ORCL",
+  "updated_at": "2026-04-14T01:45:37Z",
+  "current_price": 155.62,
+  "mfi_14": 40.37,
+  "pe_ratio": 27.94,
+  "forward_pe": 19.52,
+  "52_week_low": 121.24,
+  "52_week_high": 345.72,
+  "dividend_rate": 2.0,
+  "ex_dividend_date": "2026-04-09",
+  "next_earnings_date": "2026-03-10"
+}

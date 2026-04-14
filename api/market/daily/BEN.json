@@ -1,0 +1,13 @@
+{
+  "ticker": "BEN",
+  "updated_at": "2026-04-14T01:52:59Z",
+  "current_price": 25.67,
+  "mfi_14": 71.63,
+  "pe_ratio": 23.77,
+  "forward_pe": 9.05,
+  "52_week_low": 17.17,
+  "52_week_high": 28.32,
+  "dividend_rate": 1.32,
+  "ex_dividend_date": "2026-03-31",
+  "next_earnings_date": "2026-04-28"
+}

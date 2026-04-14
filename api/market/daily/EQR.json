@@ -1,0 +1,13 @@
+{
+  "ticker": "EQR",
+  "updated_at": "2026-04-14T01:51:19Z",
+  "current_price": 60.78,
+  "mfi_14": 74.48,
+  "pe_ratio": 20.67,
+  "forward_pe": 40.47,
+  "52_week_low": 57.57,
+  "52_week_high": 72.4,
+  "dividend_rate": 2.81,
+  "ex_dividend_date": "2026-03-30",
+  "next_earnings_date": "2026-04-28"
+}

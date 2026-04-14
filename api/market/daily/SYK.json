@@ -1,0 +1,13 @@
+{
+  "ticker": "SYK",
+  "updated_at": "2026-04-14T01:46:47Z",
+  "current_price": 347.24,
+  "mfi_14": 48.82,
+  "pe_ratio": 41.34,
+  "forward_pe": 20.75,
+  "52_week_low": 319.32,
+  "52_week_high": 404.87,
+  "dividend_rate": 3.52,
+  "ex_dividend_date": "2026-03-31",
+  "next_earnings_date": "2026-04-30"
+}

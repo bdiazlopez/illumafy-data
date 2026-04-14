@@ -1,0 +1,13 @@
+{
+  "ticker": "TMO",
+  "updated_at": "2026-04-14T01:46:14Z",
+  "current_price": 514.23,
+  "mfi_14": 55.86,
+  "pe_ratio": 28.95,
+  "forward_pe": 18.96,
+  "52_week_low": 385.46,
+  "52_week_high": 643.99,
+  "dividend_rate": 1.76,
+  "ex_dividend_date": "2026-03-13",
+  "next_earnings_date": "2026-04-23"
+}

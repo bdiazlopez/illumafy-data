@@ -1,0 +1,13 @@
+{
+  "ticker": "AMAT",
+  "updated_at": "2026-04-14T01:45:52Z",
+  "current_price": 395.73,
+  "mfi_14": 57.44,
+  "pe_ratio": 40.67,
+  "forward_pe": 28.25,
+  "52_week_low": 132.8,
+  "52_week_high": 407.29,
+  "dividend_rate": 2.12,
+  "ex_dividend_date": "2026-05-21",
+  "next_earnings_date": "2026-05-14"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "L",
+  "updated_at": "2026-04-14T01:51:30Z",
+  "current_price": 110.23,
+  "mfi_14": 51.87,
+  "pe_ratio": 13.83,
+  "forward_pe": 38.01,
+  "52_week_low": 82.49,
+  "52_week_high": 114.9,
+  "dividend_rate": 0.25,
+  "ex_dividend_date": "2026-02-25",
+  "next_earnings_date": "2026-05-04"
+}

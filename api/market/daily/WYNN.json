@@ -1,0 +1,13 @@
+{
+  "ticker": "WYNN",
+  "updated_at": "2026-04-14T01:53:20Z",
+  "current_price": 103.06,
+  "mfi_14": 45.74,
+  "pe_ratio": 32.82,
+  "forward_pe": 17.72,
+  "52_week_low": 72.65,
+  "52_week_high": 134.72,
+  "dividend_rate": 1.0,
+  "ex_dividend_date": "2026-02-23",
+  "next_earnings_date": "2026-05-07"
+}

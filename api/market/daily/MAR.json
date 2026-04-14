@@ -1,0 +1,13 @@
+{
+  "ticker": "MAR",
+  "updated_at": "2026-04-14T01:47:26Z",
+  "current_price": 359.56,
+  "mfi_14": 72.58,
+  "pe_ratio": 37.73,
+  "forward_pe": 27.66,
+  "52_week_low": 212.53,
+  "52_week_high": 370.0,
+  "dividend_rate": 2.68,
+  "ex_dividend_date": "2026-02-26",
+  "next_earnings_date": "2026-05-06"
+}

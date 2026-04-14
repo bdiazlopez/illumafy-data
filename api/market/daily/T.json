@@ -1,0 +1,13 @@
+{
+  "ticker": "T",
+  "updated_at": "2026-04-14T01:46:10Z",
+  "current_price": 25.61,
+  "mfi_14": 26.73,
+  "pe_ratio": 8.71,
+  "forward_pe": 10.07,
+  "52_week_low": 22.95,
+  "52_week_high": 29.79,
+  "dividend_rate": 1.11,
+  "ex_dividend_date": "2026-04-10",
+  "next_earnings_date": "2026-04-22"
+}

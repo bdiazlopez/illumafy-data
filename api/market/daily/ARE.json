@@ -1,0 +1,13 @@
+{
+  "ticker": "ARE",
+  "updated_at": "2026-04-14T01:53:42Z",
+  "current_price": 43.75,
+  "mfi_14": 39.65,
+  "pe_ratio": null,
+  "forward_pe": -546.88,
+  "52_week_low": 41.44,
+  "52_week_high": 88.24,
+  "dividend_rate": 4.08,
+  "ex_dividend_date": "2026-03-31",
+  "next_earnings_date": "2026-04-27"
+}

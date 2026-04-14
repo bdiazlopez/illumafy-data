@@ -1,0 +1,13 @@
+{
+  "ticker": "TGT",
+  "updated_at": "2026-04-14T01:48:48Z",
+  "current_price": 117.88,
+  "mfi_14": 65.17,
+  "pe_ratio": 14.5,
+  "forward_pe": 13.85,
+  "52_week_low": 83.44,
+  "52_week_high": 126.0,
+  "dividend_rate": 4.56,
+  "ex_dividend_date": "2026-05-13",
+  "next_earnings_date": "2026-03-03"
+}

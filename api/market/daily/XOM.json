@@ -1,0 +1,13 @@
+{
+  "ticker": "XOM",
+  "updated_at": "2026-04-14T01:45:30Z",
+  "current_price": 152.64,
+  "mfi_14": 45.03,
+  "pe_ratio": 22.78,
+  "forward_pe": 15.53,
+  "52_week_low": 101.19,
+  "52_week_high": 176.41,
+  "dividend_rate": 4.12,
+  "ex_dividend_date": "2026-02-12",
+  "next_earnings_date": "2026-01-30"
+}

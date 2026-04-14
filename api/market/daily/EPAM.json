@@ -1,0 +1,13 @@
+{
+  "ticker": "EPAM",
+  "updated_at": "2026-04-14T01:53:44Z",
+  "current_price": 124.99,
+  "mfi_14": 31.79,
+  "pe_ratio": 18.6,
+  "forward_pe": 8.98,
+  "52_week_low": 121.63,
+  "52_week_high": 222.53,
+  "dividend_rate": "N/A",
+  "ex_dividend_date": null,
+  "next_earnings_date": "2026-05-07"
+}

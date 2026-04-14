@@ -1,0 +1,13 @@
+{
+  "ticker": "DAL",
+  "updated_at": "2026-04-14T01:49:23Z",
+  "current_price": 67.05,
+  "mfi_14": 53.35,
+  "pe_ratio": 9.79,
+  "forward_pe": 8.36,
+  "52_week_low": 38.8,
+  "52_week_high": 76.39,
+  "dividend_rate": 0.75,
+  "ex_dividend_date": "2026-02-26",
+  "next_earnings_date": "2026-04-08"
+}

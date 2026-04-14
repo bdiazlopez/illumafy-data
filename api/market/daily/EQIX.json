@@ -1,0 +1,13 @@
+{
+  "ticker": "EQIX",
+  "updated_at": "2026-04-14T01:47:15Z",
+  "current_price": 1056.84,
+  "mfi_14": 80.16,
+  "pe_ratio": 76.92,
+  "forward_pe": 59.99,
+  "52_week_low": 710.52,
+  "52_week_high": 1057.88,
+  "dividend_rate": 19.23,
+  "ex_dividend_date": "2026-02-25",
+  "next_earnings_date": "2026-04-29"
+}

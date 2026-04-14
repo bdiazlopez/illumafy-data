@@ -1,0 +1,13 @@
+{
+  "ticker": "FOXA",
+  "updated_at": "2026-04-14T01:51:04Z",
+  "current_price": 62.45,
+  "mfi_14": 50.24,
+  "pe_ratio": 14.98,
+  "forward_pe": 12.11,
+  "52_week_low": 46.42,
+  "52_week_high": 76.39,
+  "dividend_rate": 0.56,
+  "ex_dividend_date": "2026-03-04",
+  "next_earnings_date": "2026-02-04"
+}

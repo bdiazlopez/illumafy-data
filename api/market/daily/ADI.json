@@ -1,0 +1,13 @@
+{
+  "ticker": "ADI",
+  "updated_at": "2026-04-14T01:46:26Z",
+  "current_price": 350.01,
+  "mfi_14": 64.56,
+  "pe_ratio": 64.1,
+  "forward_pe": 26.81,
+  "52_week_low": 170.39,
+  "52_week_high": 363.2,
+  "dividend_rate": 4.07,
+  "ex_dividend_date": "2026-03-03",
+  "next_earnings_date": "2026-02-18"
+}

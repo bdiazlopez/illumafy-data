@@ -1,0 +1,13 @@
+{
+  "ticker": "NTRS",
+  "updated_at": "2026-04-14T01:50:44Z",
+  "current_price": 153.99,
+  "mfi_14": 84.31,
+  "pe_ratio": 17.64,
+  "forward_pe": 13.69,
+  "52_week_low": 85.72,
+  "52_week_high": 157.6,
+  "dividend_rate": 3.15,
+  "ex_dividend_date": "2026-03-06",
+  "next_earnings_date": "2026-04-21"
+}

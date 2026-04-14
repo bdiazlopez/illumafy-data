@@ -1,0 +1,13 @@
+{
+  "ticker": "IP",
+  "updated_at": "2026-04-14T01:52:07Z",
+  "current_price": 36.65,
+  "mfi_14": 55.67,
+  "pe_ratio": null,
+  "forward_pe": 12.82,
+  "52_week_low": 33.57,
+  "52_week_high": 56.13,
+  "dividend_rate": 1.85,
+  "ex_dividend_date": "2026-02-23",
+  "next_earnings_date": "2026-04-30"
+}

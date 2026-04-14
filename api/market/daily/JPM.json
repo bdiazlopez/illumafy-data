@@ -1,0 +1,13 @@
+{
+  "ticker": "JPM",
+  "updated_at": "2026-04-14T01:45:29Z",
+  "current_price": 313.68,
+  "mfi_14": 58.63,
+  "pe_ratio": 15.68,
+  "forward_pe": 13.42,
+  "52_week_low": 226.34,
+  "52_week_high": 337.25,
+  "dividend_rate": 6.0,
+  "ex_dividend_date": "2026-04-06",
+  "next_earnings_date": "2026-04-14"
+}

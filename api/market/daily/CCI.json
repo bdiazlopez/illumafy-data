@@ -1,0 +1,13 @@
+{
+  "ticker": "CCI",
+  "updated_at": "2026-04-14T01:49:44Z",
+  "current_price": 87.08,
+  "mfi_14": 62.49,
+  "pe_ratio": 34.56,
+  "forward_pe": 29.7,
+  "52_week_low": 75.96,
+  "52_week_high": 115.76,
+  "dividend_rate": 4.25,
+  "ex_dividend_date": "2026-03-13",
+  "next_earnings_date": "2026-04-22"
+}

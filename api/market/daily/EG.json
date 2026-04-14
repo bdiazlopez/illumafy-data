@@ -1,0 +1,13 @@
+{
+  "ticker": "EG",
+  "updated_at": "2026-04-14T01:52:53Z",
+  "current_price": 333.43,
+  "mfi_14": 52.46,
+  "pe_ratio": 8.82,
+  "forward_pe": 5.47,
+  "52_week_low": 302.44,
+  "52_week_high": 368.29,
+  "dividend_rate": 8.0,
+  "ex_dividend_date": "2026-03-13",
+  "next_earnings_date": "2026-04-29"
+}

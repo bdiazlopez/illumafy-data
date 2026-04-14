@@ -1,0 +1,13 @@
+{
+  "ticker": "FTV",
+  "updated_at": "2026-04-14T01:52:10Z",
+  "current_price": 59.82,
+  "mfi_14": 64.19,
+  "pe_ratio": 36.7,
+  "forward_pe": 18.73,
+  "52_week_low": 46.34,
+  "52_week_high": 62.42,
+  "dividend_rate": 0.26,
+  "ex_dividend_date": "2026-03-13",
+  "next_earnings_date": "2026-04-30"
+}

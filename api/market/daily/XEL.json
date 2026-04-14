@@ -1,0 +1,13 @@
+{
+  "ticker": "XEL",
+  "updated_at": "2026-04-14T01:48:58Z",
+  "current_price": 80.45,
+  "mfi_14": 78.27,
+  "pe_ratio": 23.52,
+  "forward_pe": 17.77,
+  "52_week_low": 65.21,
+  "52_week_high": 84.23,
+  "dividend_rate": 2.37,
+  "ex_dividend_date": "2026-03-13",
+  "next_earnings_date": "2026-04-30"
+}

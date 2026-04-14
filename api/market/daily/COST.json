@@ -1,0 +1,13 @@
+{
+  "ticker": "COST",
+  "updated_at": "2026-04-14T01:45:33Z",
+  "current_price": 980.85,
+  "mfi_14": 63.53,
+  "pe_ratio": 51.03,
+  "forward_pe": 43.66,
+  "52_week_low": 844.06,
+  "52_week_high": 1067.08,
+  "dividend_rate": 5.2,
+  "ex_dividend_date": "2026-01-30",
+  "next_earnings_date": "2026-05-28"
+}

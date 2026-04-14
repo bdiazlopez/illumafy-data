@@ -1,0 +1,13 @@
+{
+  "ticker": "BDX",
+  "updated_at": "2026-04-14T01:48:42Z",
+  "current_price": 155.43,
+  "mfi_14": 51.56,
+  "pe_ratio": 25.4,
+  "forward_pe": 11.51,
+  "52_week_low": 127.59,
+  "52_week_high": 187.35,
+  "dividend_rate": 4.2,
+  "ex_dividend_date": "2026-03-10",
+  "next_earnings_date": "2026-05-07"
+}

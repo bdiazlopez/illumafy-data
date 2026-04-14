@@ -1,0 +1,13 @@
+{
+  "ticker": "BRK-B",
+  "updated_at": "2026-04-14T01:45:26Z",
+  "current_price": 480.19,
+  "mfi_14": 44.03,
+  "pe_ratio": 15.48,
+  "forward_pe": 22.08,
+  "52_week_low": 455.19,
+  "52_week_high": 542.07,
+  "dividend_rate": "N/A",
+  "ex_dividend_date": null,
+  "next_earnings_date": "2026-05-02"
+}

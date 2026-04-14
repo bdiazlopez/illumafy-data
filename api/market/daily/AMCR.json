@@ -1,0 +1,13 @@
+{
+  "ticker": "AMCR",
+  "updated_at": "2026-04-14T01:52:12Z",
+  "current_price": 40.96,
+  "mfi_14": 37.65,
+  "pe_ratio": 30.8,
+  "forward_pe": 9.32,
+  "52_week_low": 37.95,
+  "52_week_high": 50.94,
+  "dividend_rate": 2.6,
+  "ex_dividend_date": "2026-02-25",
+  "next_earnings_date": "2026-02-03"
+}

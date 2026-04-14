@@ -1,0 +1,13 @@
+{
+  "ticker": "XYZ",
+  "updated_at": "2026-04-14T01:49:48Z",
+  "current_price": 64.22,
+  "mfi_14": 58.66,
+  "pe_ratio": 30.58,
+  "forward_pe": 13.52,
+  "52_week_low": 44.27,
+  "52_week_high": 82.5,
+  "dividend_rate": "N/A",
+  "ex_dividend_date": null,
+  "next_earnings_date": "2026-05-07"
+}

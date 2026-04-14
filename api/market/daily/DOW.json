@@ -1,0 +1,13 @@
+{
+  "ticker": "DOW",
+  "updated_at": "2026-04-14T01:50:28Z",
+  "current_price": 40.11,
+  "mfi_14": 56.38,
+  "pe_ratio": null,
+  "forward_pe": 31.95,
+  "52_week_low": 20.4,
+  "52_week_high": 42.74,
+  "dividend_rate": 1.4,
+  "ex_dividend_date": "2026-05-29",
+  "next_earnings_date": "2026-04-23"
+}

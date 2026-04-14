@@ -1,0 +1,13 @@
+{
+  "ticker": "AFL",
+  "updated_at": "2026-04-14T01:48:38Z",
+  "current_price": 112.14,
+  "mfi_14": 70.39,
+  "pe_ratio": 16.44,
+  "forward_pe": 14.53,
+  "52_week_low": 96.95,
+  "52_week_high": 119.32,
+  "dividend_rate": 2.44,
+  "ex_dividend_date": "2026-02-18",
+  "next_earnings_date": "2026-04-29"
+}

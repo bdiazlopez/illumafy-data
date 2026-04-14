@@ -1,0 +1,13 @@
+{
+  "ticker": "CBOE",
+  "updated_at": "2026-04-14T01:50:16Z",
+  "current_price": 300.3,
+  "mfi_14": 54.05,
+  "pe_ratio": 28.41,
+  "forward_pe": 23.02,
+  "52_week_low": 207.75,
+  "52_week_high": 305.68,
+  "dividend_rate": 2.79,
+  "ex_dividend_date": "2026-02-26",
+  "next_earnings_date": "2026-05-01"
+}

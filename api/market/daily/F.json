@@ -1,0 +1,13 @@
+{
+  "ticker": "F",
+  "updated_at": "2026-04-14T01:49:13Z",
+  "current_price": 12.16,
+  "mfi_14": 44.71,
+  "pe_ratio": null,
+  "forward_pe": 6.63,
+  "52_week_low": 9.29,
+  "52_week_high": 14.8,
+  "dividend_rate": 0.6,
+  "ex_dividend_date": "2026-02-13",
+  "next_earnings_date": "2026-04-29"
+}

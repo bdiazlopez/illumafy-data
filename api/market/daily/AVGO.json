@@ -1,0 +1,13 @@
+{
+  "ticker": "AVGO",
+  "updated_at": "2026-04-14T01:45:23Z",
+  "current_price": 379.75,
+  "mfi_14": 69.59,
+  "pe_ratio": 74.03,
+  "forward_pe": 21.2,
+  "52_week_low": 161.61,
+  "52_week_high": 414.61,
+  "dividend_rate": 2.6,
+  "ex_dividend_date": "2026-03-23",
+  "next_earnings_date": "2026-06-03"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "LHX",
+  "updated_at": "2026-04-14T01:48:19Z",
+  "current_price": 357.95,
+  "mfi_14": 59.42,
+  "pe_ratio": 42.01,
+  "forward_pe": 26.33,
+  "52_week_low": 208.11,
+  "52_week_high": 379.23,
+  "dividend_rate": 5.0,
+  "ex_dividend_date": "2026-03-06",
+  "next_earnings_date": "2026-04-30"
+}

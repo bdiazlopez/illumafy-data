@@ -1,0 +1,13 @@
+{
+  "ticker": "NDAQ",
+  "updated_at": "2026-04-14T01:49:05Z",
+  "current_price": 86.15,
+  "mfi_14": 51.21,
+  "pe_ratio": 27.88,
+  "forward_pe": 19.66,
+  "52_week_low": 69.88,
+  "52_week_high": 101.79,
+  "dividend_rate": 1.08,
+  "ex_dividend_date": "2026-03-16",
+  "next_earnings_date": "2026-04-23"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "CASY",
+  "updated_at": "2026-04-14T01:50:46Z",
+  "current_price": 735.0,
+  "mfi_14": 84.99,
+  "pe_ratio": 42.19,
+  "forward_pe": 37.04,
+  "52_week_low": 430.0,
+  "52_week_high": 774.23,
+  "dividend_rate": 2.28,
+  "ex_dividend_date": "2026-05-01",
+  "next_earnings_date": "2026-03-09"
+}

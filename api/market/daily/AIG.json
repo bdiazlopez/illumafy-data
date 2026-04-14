@@ -1,0 +1,13 @@
+{
+  "ticker": "AIG",
+  "updated_at": "2026-04-14T01:49:30Z",
+  "current_price": 77.83,
+  "mfi_14": 59.78,
+  "pe_ratio": 14.33,
+  "forward_pe": 8.81,
+  "52_week_low": 71.25,
+  "52_week_high": 87.46,
+  "dividend_rate": 1.8,
+  "ex_dividend_date": "2026-03-16",
+  "next_earnings_date": "2026-04-30"
+}

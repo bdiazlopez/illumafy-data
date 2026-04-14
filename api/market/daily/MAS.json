@@ -1,0 +1,13 @@
+{
+  "ticker": "MAS",
+  "updated_at": "2026-04-14T01:53:03Z",
+  "current_price": 64.31,
+  "mfi_14": 53.44,
+  "pe_ratio": 16.66,
+  "forward_pe": 13.95,
+  "52_week_low": 56.55,
+  "52_week_high": 79.19,
+  "dividend_rate": 1.28,
+  "ex_dividend_date": "2026-02-20",
+  "next_earnings_date": "2026-04-22"
+}

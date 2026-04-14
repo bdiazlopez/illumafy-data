@@ -1,0 +1,13 @@
+{
+  "ticker": "DTE",
+  "updated_at": "2026-04-14T01:50:22Z",
+  "current_price": 147.51,
+  "mfi_14": 57.1,
+  "pe_ratio": 20.95,
+  "forward_pe": 17.74,
+  "52_week_low": 126.23,
+  "52_week_high": 154.63,
+  "dividend_rate": 4.51,
+  "ex_dividend_date": "2026-03-16",
+  "next_earnings_date": "2026-02-17"
+}

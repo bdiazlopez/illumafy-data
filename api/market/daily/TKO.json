@@ -1,0 +1,13 @@
+{
+  "ticker": "TKO",
+  "updated_at": "2026-04-14T01:52:34Z",
+  "current_price": 195.47,
+  "mfi_14": 63.83,
+  "pe_ratio": 86.11,
+  "forward_pe": 52.27,
+  "52_week_low": 141.44,
+  "52_week_high": 226.94,
+  "dividend_rate": 3.12,
+  "ex_dividend_date": "2026-03-16",
+  "next_earnings_date": "2026-05-06"
+}

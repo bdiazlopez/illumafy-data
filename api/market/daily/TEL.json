@@ -1,0 +1,13 @@
+{
+  "ticker": "TEL",
+  "updated_at": "2026-04-14T01:48:32Z",
+  "current_price": 234.33,
+  "mfi_14": 64.72,
+  "pe_ratio": 33.77,
+  "forward_pe": 18.92,
+  "52_week_low": 125.42,
+  "52_week_high": 250.67,
+  "dividend_rate": 2.91,
+  "ex_dividend_date": "2026-05-22",
+  "next_earnings_date": "2026-04-22"
+}

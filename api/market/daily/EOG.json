@@ -1,0 +1,13 @@
+{
+  "ticker": "EOG",
+  "updated_at": "2026-04-14T01:47:43Z",
+  "current_price": 136.96,
+  "mfi_14": 61.14,
+  "pe_ratio": 15.02,
+  "forward_pe": 10.38,
+  "52_week_low": 101.59,
+  "52_week_high": 151.87,
+  "dividend_rate": 4.08,
+  "ex_dividend_date": "2026-04-16",
+  "next_earnings_date": "2026-05-05"
+}

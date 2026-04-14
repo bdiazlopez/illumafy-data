@@ -1,0 +1,13 @@
+{
+  "ticker": "TSN",
+  "updated_at": "2026-04-14T01:51:27Z",
+  "current_price": 64.45,
+  "mfi_14": 89.59,
+  "pe_ratio": 115.09,
+  "forward_pe": 14.66,
+  "52_week_low": 50.56,
+  "52_week_high": 66.41,
+  "dividend_rate": 2.04,
+  "ex_dividend_date": "2026-06-01",
+  "next_earnings_date": "2026-05-04"
+}

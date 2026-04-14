@@ -1,0 +1,13 @@
+{
+  "ticker": "KO",
+  "updated_at": "2026-04-14T01:45:45Z",
+  "current_price": 76.41,
+  "mfi_14": 54.7,
+  "pe_ratio": 25.13,
+  "forward_pe": 22.13,
+  "52_week_low": 65.35,
+  "52_week_high": 82.0,
+  "dividend_rate": 2.06,
+  "ex_dividend_date": "2026-03-13",
+  "next_earnings_date": "2026-04-28"
+}

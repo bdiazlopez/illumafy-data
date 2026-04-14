@@ -1,0 +1,13 @@
+{
+  "ticker": "KLAC",
+  "updated_at": "2026-04-14T01:46:09Z",
+  "current_price": 1768.78,
+  "mfi_14": 71.06,
+  "pe_ratio": 51.55,
+  "forward_pe": 36.82,
+  "52_week_low": 607.7,
+  "52_week_high": 1771.22,
+  "dividend_rate": 7.6,
+  "ex_dividend_date": "2026-02-17",
+  "next_earnings_date": "2026-04-29"
+}

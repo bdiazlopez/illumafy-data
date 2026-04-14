@@ -1,0 +1,13 @@
+{
+  "ticker": "EVRG",
+  "updated_at": "2026-04-14T01:51:59Z",
+  "current_price": 82.45,
+  "mfi_14": 79.45,
+  "pe_ratio": 22.53,
+  "forward_pe": 18.12,
+  "52_week_low": 63.29,
+  "52_week_high": 85.27,
+  "dividend_rate": 2.78,
+  "ex_dividend_date": "2026-03-10",
+  "next_earnings_date": "2026-02-19"
+}

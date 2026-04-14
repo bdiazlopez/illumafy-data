@@ -1,0 +1,13 @@
+{
+  "ticker": "CB",
+  "updated_at": "2026-04-14T01:46:45Z",
+  "current_price": 329.98,
+  "mfi_14": 69.64,
+  "pe_ratio": 12.85,
+  "forward_pe": 11.33,
+  "52_week_low": 264.1,
+  "52_week_high": 345.67,
+  "dividend_rate": 3.88,
+  "ex_dividend_date": "2026-03-13",
+  "next_earnings_date": "2026-04-21"
+}

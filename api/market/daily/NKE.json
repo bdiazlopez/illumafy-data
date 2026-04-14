@@ -1,0 +1,13 @@
+{
+  "ticker": "NKE",
+  "updated_at": "2026-04-14T01:48:27Z",
+  "current_price": 42.91,
+  "mfi_14": 29.33,
+  "pe_ratio": 28.23,
+  "forward_pe": 22.44,
+  "52_week_low": 42.09,
+  "52_week_high": 80.17,
+  "dividend_rate": 1.64,
+  "ex_dividend_date": "2026-03-02",
+  "next_earnings_date": "2026-03-31"
+}

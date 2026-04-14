@@ -1,0 +1,13 @@
+{
+  "ticker": "NVDA",
+  "updated_at": "2026-04-14T01:45:17Z",
+  "current_price": 189.31,
+  "mfi_14": 56.21,
+  "pe_ratio": 38.63,
+  "forward_pe": 17.03,
+  "52_week_low": 95.04,
+  "52_week_high": 212.19,
+  "dividend_rate": 0.04,
+  "ex_dividend_date": "2026-03-11",
+  "next_earnings_date": "2026-05-20"
+}

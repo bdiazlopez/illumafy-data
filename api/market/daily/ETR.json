@@ -1,0 +1,13 @@
+{
+  "ticker": "ETR",
+  "updated_at": "2026-04-14T01:48:52Z",
+  "current_price": 115.33,
+  "mfi_14": 79.97,
+  "pe_ratio": 29.5,
+  "forward_pe": 23.38,
+  "52_week_low": 79.4,
+  "52_week_high": 117.81,
+  "dividend_rate": 2.56,
+  "ex_dividend_date": "2026-05-01",
+  "next_earnings_date": "2026-04-29"
+}

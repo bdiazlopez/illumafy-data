@@ -1,0 +1,13 @@
+{
+  "ticker": "ECL",
+  "updated_at": "2026-04-14T01:47:56Z",
+  "current_price": 275.2,
+  "mfi_14": 68.59,
+  "pe_ratio": 37.75,
+  "forward_pe": 28.5,
+  "52_week_low": 229.39,
+  "52_week_high": 309.27,
+  "dividend_rate": 2.76,
+  "ex_dividend_date": "2026-03-17",
+  "next_earnings_date": "2026-04-28"
+}

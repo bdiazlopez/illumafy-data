@@ -1,0 +1,13 @@
+{
+  "ticker": "GOOGL",
+  "updated_at": "2026-04-14T01:45:20Z",
+  "current_price": 321.31,
+  "mfi_14": 47.8,
+  "pe_ratio": 29.75,
+  "forward_pe": 23.92,
+  "52_week_low": 146.1,
+  "52_week_high": 349.0,
+  "dividend_rate": 0.84,
+  "ex_dividend_date": "2026-03-09",
+  "next_earnings_date": "2026-04-29"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "FDX",
+  "updated_at": "2026-04-14T01:47:30Z",
+  "current_price": 371.89,
+  "mfi_14": 43.56,
+  "pe_ratio": 19.84,
+  "forward_pe": 16.63,
+  "52_week_low": 201.03,
+  "52_week_high": 392.86,
+  "dividend_rate": 5.8,
+  "ex_dividend_date": "2026-03-09",
+  "next_earnings_date": "2026-06-23"
+}

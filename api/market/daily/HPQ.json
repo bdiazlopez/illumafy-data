@@ -1,0 +1,13 @@
+{
+  "ticker": "HPQ",
+  "updated_at": "2026-04-14T01:52:21Z",
+  "current_price": 19.23,
+  "mfi_14": 45.35,
+  "pe_ratio": 7.28,
+  "forward_pe": 6.46,
+  "52_week_low": 17.56,
+  "52_week_high": 29.55,
+  "dividend_rate": 1.2,
+  "ex_dividend_date": "2026-03-11",
+  "next_earnings_date": "2026-02-24"
+}

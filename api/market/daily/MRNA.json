@@ -1,0 +1,13 @@
+{
+  "ticker": "MRNA",
+  "updated_at": "2026-04-14T01:51:52Z",
+  "current_price": 50.68,
+  "mfi_14": 67.79,
+  "pe_ratio": null,
+  "forward_pe": -10.91,
+  "52_week_low": 22.28,
+  "52_week_high": 59.55,
+  "dividend_rate": "N/A",
+  "ex_dividend_date": null,
+  "next_earnings_date": "2026-02-13"
+}

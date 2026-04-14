@@ -1,0 +1,13 @@
+{
+  "ticker": "Q",
+  "updated_at": "2026-04-14T01:51:09Z",
+  "current_price": 135.02,
+  "mfi_14": 74.05,
+  "pe_ratio": 39.48,
+  "forward_pe": 30.81,
+  "52_week_low": 70.5,
+  "52_week_high": 140.6,
+  "dividend_rate": 0.14,
+  "ex_dividend_date": "2026-02-27",
+  "next_earnings_date": "2026-05-12"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "KMB",
+  "updated_at": "2026-04-14T01:50:21Z",
+  "current_price": 96.6,
+  "mfi_14": 46.29,
+  "pe_ratio": 19.88,
+  "forward_pe": 12.62,
+  "52_week_low": 92.42,
+  "52_week_high": 144.31,
+  "dividend_rate": 5.12,
+  "ex_dividend_date": "2026-03-06",
+  "next_earnings_date": "2026-04-28"
+}

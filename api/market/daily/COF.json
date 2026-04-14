@@ -1,0 +1,13 @@
+{
+  "ticker": "COF",
+  "updated_at": "2026-04-14T01:46:57Z",
+  "current_price": 197.55,
+  "mfi_14": 56.42,
+  "pe_ratio": 58.79,
+  "forward_pe": 8.15,
+  "52_week_low": 157.89,
+  "52_week_high": 259.64,
+  "dividend_rate": 3.2,
+  "ex_dividend_date": "2026-02-19",
+  "next_earnings_date": "2026-04-21"
+}
