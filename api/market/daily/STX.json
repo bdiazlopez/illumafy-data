@@ -1,12 +1,12 @@
 {
   "ticker": "STX",
-  "updated_at": "2026-04-14T11:18:41Z",
-  "current_price": 513.28,
-  "mfi_14": 75.93,
-  "pe_ratio": 58.13,
-  "forward_pe": 25.63,
+  "updated_at": "2026-04-14T14:22:28Z",
+  "current_price": 513.3,
+  "mfi_14": 74.71,
+  "pe_ratio": 58.17,
+  "forward_pe": 25.65,
   "52_week_low": 71.3,
-  "52_week_high": 517.18,
+  "52_week_high": 522.8,
   "dividend_rate": 2.96,
   "ex_dividend_date": "2026-03-25",
   "next_earnings_date": "2026-01-27"

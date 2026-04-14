@@ -1,12 +1,12 @@
 {
   "ticker": "LRCX",
-  "updated_at": "2026-04-14T11:17:37Z",
-  "current_price": 267.32,
-  "mfi_14": 64.12,
-  "pe_ratio": 54.89,
-  "forward_pe": 38.65,
+  "updated_at": "2026-04-14T14:21:28Z",
+  "current_price": 270.53,
+  "mfi_14": 62.51,
+  "pe_ratio": 55.54,
+  "forward_pe": 39.11,
   "52_week_low": 61.14,
-  "52_week_high": 268.23,
+  "52_week_high": 272.49,
   "dividend_rate": 1.04,
   "ex_dividend_date": "2026-03-04",
   "next_earnings_date": "2026-04-22"

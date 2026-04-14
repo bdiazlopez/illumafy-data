@@ -1,12 +1,12 @@
 {
   "ticker": "VRT",
-  "updated_at": "2026-04-14T11:18:40Z",
-  "current_price": 299.96,
-  "mfi_14": 66.74,
-  "pe_ratio": 87.71,
-  "forward_pe": 37.2,
+  "updated_at": "2026-04-14T14:22:30Z",
+  "current_price": 308.36,
+  "mfi_14": 63.95,
+  "pe_ratio": 90.24,
+  "forward_pe": 38.13,
   "52_week_low": 65.93,
-  "52_week_high": 300.68,
+  "52_week_high": 309.06,
   "dividend_rate": 0.25,
   "ex_dividend_date": "2026-03-17",
   "next_earnings_date": "2026-04-22"

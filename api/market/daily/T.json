@@ -1,9 +1,9 @@
 {
   "ticker": "T",
-  "updated_at": "2026-04-14T11:18:01Z",
-  "current_price": 25.61,
-  "mfi_14": 26.71,
-  "pe_ratio": 8.71,
+  "updated_at": "2026-04-14T14:21:48Z",
+  "current_price": 25.56,
+  "mfi_14": 19.98,
+  "pe_ratio": 8.42,
   "forward_pe": 10.07,
   "52_week_low": 22.95,
   "52_week_high": 29.79,

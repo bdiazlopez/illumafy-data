@@ -1,12 +1,12 @@
 {
   "ticker": "BK",
-  "updated_at": "2026-04-14T11:19:07Z",
-  "current_price": 129.15,
-  "mfi_14": 84.78,
-  "pe_ratio": 17.45,
-  "forward_pe": 13.65,
+  "updated_at": "2026-04-14T14:22:49Z",
+  "current_price": 129.6,
+  "mfi_14": 83.7,
+  "pe_ratio": 17.47,
+  "forward_pe": 13.66,
   "52_week_low": 73.55,
-  "52_week_high": 129.22,
+  "52_week_high": 129.99,
   "dividend_rate": 2.12,
   "ex_dividend_date": "2026-01-23",
   "next_earnings_date": "2026-04-16"

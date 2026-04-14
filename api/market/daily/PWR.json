@@ -1,12 +1,12 @@
 {
   "ticker": "PWR",
-  "updated_at": "2026-04-14T11:19:09Z",
-  "current_price": 595.84,
-  "mfi_14": 67.26,
-  "pe_ratio": 87.75,
-  "forward_pe": 38.69,
+  "updated_at": "2026-04-14T14:22:52Z",
+  "current_price": 591.31,
+  "mfi_14": 64.04,
+  "pe_ratio": 87.25,
+  "forward_pe": 38.46,
   "52_week_low": 251.04,
-  "52_week_high": 596.42,
+  "52_week_high": 598.86,
   "dividend_rate": 0.44,
   "ex_dividend_date": "2026-04-02",
   "next_earnings_date": "2026-02-19"

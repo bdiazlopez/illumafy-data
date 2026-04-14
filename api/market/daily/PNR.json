@@ -1,13 +1,13 @@
 {
   "ticker": "PNR",
-  "updated_at": "2026-04-14T11:23:41Z",
-  "current_price": 91.2,
-  "mfi_14": 31.6,
-  "pe_ratio": 23.21,
-  "forward_pe": 15.64,
+  "updated_at": "2026-04-14T14:27:05Z",
+  "current_price": 90.9,
+  "mfi_14": 34.36,
+  "pe_ratio": 23.1,
+  "forward_pe": 15.57,
   "52_week_low": 77.71,
   "52_week_high": 113.95,
   "dividend_rate": 1.04,
   "ex_dividend_date": "2026-04-17",
-  "next_earnings_date": "2026-02-03"
+  "next_earnings_date": "2026-04-28"
 }

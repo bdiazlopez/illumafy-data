@@ -1,12 +1,12 @@
 {
   "ticker": "STT",
-  "updated_at": "2026-04-14T11:21:01Z",
-  "current_price": 141.62,
-  "mfi_14": 79.44,
-  "pe_ratio": 15.07,
-  "forward_pe": 10.72,
+  "updated_at": "2026-04-14T14:24:38Z",
+  "current_price": 140.8,
+  "mfi_14": 77.83,
+  "pe_ratio": 14.95,
+  "forward_pe": 10.63,
   "52_week_low": 75.5,
-  "52_week_high": 141.73,
+  "52_week_high": 142.19,
   "dividend_rate": 3.36,
   "ex_dividend_date": "2026-04-01",
   "next_earnings_date": "2026-04-17"

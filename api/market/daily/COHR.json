@@ -1,12 +1,12 @@
 {
   "ticker": "COHR",
-  "updated_at": "2026-04-14T11:20:09Z",
-  "current_price": 307.93,
-  "mfi_14": 74.43,
-  "pe_ratio": 301.89,
-  "forward_pe": 41.35,
+  "updated_at": "2026-04-14T14:24:00Z",
+  "current_price": 311.0,
+  "mfi_14": 71.98,
+  "pe_ratio": 306.64,
+  "forward_pe": 42.0,
   "52_week_low": 50.81,
-  "52_week_high": 313.0,
+  "52_week_high": 319.73,
   "dividend_rate": "N/A",
   "ex_dividend_date": null,
   "next_earnings_date": "2026-02-04"

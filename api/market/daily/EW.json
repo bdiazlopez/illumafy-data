@@ -1,13 +1,13 @@
 {
   "ticker": "EW",
-  "updated_at": "2026-04-14T11:20:41Z",
-  "current_price": 78.12,
-  "mfi_14": 35.22,
-  "pe_ratio": 43.16,
-  "forward_pe": 23.52,
+  "updated_at": "2026-04-14T14:24:17Z",
+  "current_price": 78.5,
+  "mfi_14": 38.04,
+  "pe_ratio": 43.35,
+  "forward_pe": 23.63,
   "52_week_low": 68.63,
   "52_week_high": 87.89,
   "dividend_rate": "N/A",
   "ex_dividend_date": null,
-  "next_earnings_date": "2026-02-10"
+  "next_earnings_date": "2026-04-23"
 }
