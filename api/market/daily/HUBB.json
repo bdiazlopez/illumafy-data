@@ -1,12 +1,12 @@
 {
   "ticker": "HUBB",
-  "updated_at": "2026-04-14T15:05:35Z",
-  "current_price": 546.01,
-  "mfi_14": 65.09,
-  "pe_ratio": 33.09,
-  "forward_pe": 25.3,
+  "updated_at": "2026-04-14T15:42:38Z",
+  "current_price": 546.79,
+  "mfi_14": 65.29,
+  "pe_ratio": 33.04,
+  "forward_pe": 25.26,
   "52_week_low": 325.08,
-  "52_week_high": 546.59,
+  "52_week_high": 547.49,
   "dividend_rate": 5.68,
   "ex_dividend_date": "2026-02-27",
   "next_earnings_date": "2026-04-30"
