@@ -1,12 +1,12 @@
 {
   "ticker": "BRO",
-  "updated_at": "2026-04-14T01:51:26Z",
+  "updated_at": "2026-04-14T11:22:43Z",
   "current_price": 67.46,
-  "mfi_14": 55.81,
+  "mfi_14": 56.32,
   "pe_ratio": 21.35,
   "forward_pe": 13.54,
   "52_week_low": 63.29,
-  "52_week_high": 121.7,
+  "52_week_high": 121.59,
   "dividend_rate": 0.63,
   "ex_dividend_date": "2026-02-04",
   "next_earnings_date": "2026-04-27"

@@ -1,9 +1,9 @@
 {
   "ticker": "CI",
-  "updated_at": "2026-04-14T01:47:59Z",
+  "updated_at": "2026-04-14T11:19:38Z",
   "current_price": 275.12,
-  "mfi_14": 67.57,
-  "pe_ratio": 12.4,
+  "mfi_14": 66.05,
+  "pe_ratio": 12.41,
   "forward_pe": 8.23,
   "52_week_low": 239.51,
   "52_week_high": 350.0,

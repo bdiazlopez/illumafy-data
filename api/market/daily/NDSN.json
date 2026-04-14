@@ -1,9 +1,9 @@
 {
   "ticker": "NDSN",
-  "updated_at": "2026-04-14T01:52:37Z",
+  "updated_at": "2026-04-14T11:23:35Z",
   "current_price": 278.09,
-  "mfi_14": 60.5,
-  "pe_ratio": 30.06,
+  "mfi_14": 60.92,
+  "pe_ratio": 30.13,
   "forward_pe": 22.45,
   "52_week_low": 174.59,
   "52_week_high": 305.28,

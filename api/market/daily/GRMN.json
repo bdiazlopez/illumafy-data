@@ -1,12 +1,12 @@
 {
   "ticker": "GRMN",
-  "updated_at": "2026-04-14T01:49:12Z",
+  "updated_at": "2026-04-14T11:20:34Z",
   "current_price": 261.57,
-  "mfi_14": 67.04,
+  "mfi_14": 67.76,
   "pe_ratio": 30.49,
   "forward_pe": 25.72,
   "52_week_low": 178.74,
-  "52_week_high": 262.49,
+  "52_week_high": 262.59,
   "dividend_rate": 4.2,
   "ex_dividend_date": "2026-06-15",
   "next_earnings_date": "2026-04-29"
