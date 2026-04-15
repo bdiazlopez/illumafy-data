@@ -1,13 +1,13 @@
 {
   "ticker": "AOS",
-  "updated_at": "2026-04-14T15:44:57Z",
-  "current_price": 67.1,
-  "mfi_14": 51.38,
-  "pe_ratio": 17.4,
+  "updated_at": "2026-04-15T11:22:16Z",
+  "current_price": 66.93,
+  "mfi_14": 53.47,
+  "pe_ratio": 17.38,
   "forward_pe": 15.42,
   "52_week_low": 61.35,
   "52_week_high": 81.87,
-  "dividend_rate": 1.4,
-  "ex_dividend_date": "2026-01-30",
+  "dividend_rate": 1.42,
+  "ex_dividend_date": "2026-04-30",
   "next_earnings_date": "2026-04-30"
 }

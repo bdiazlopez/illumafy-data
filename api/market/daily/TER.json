@@ -1,13 +1,13 @@
 {
   "ticker": "TER",
-  "updated_at": "2026-04-14T15:41:00Z",
-  "current_price": 364.0,
-  "mfi_14": 66.25,
-  "pe_ratio": 104.42,
-  "forward_pe": 43.63,
+  "updated_at": "2026-04-15T11:17:45Z",
+  "current_price": 365.51,
+  "mfi_14": 63.29,
+  "pe_ratio": 105.03,
+  "forward_pe": 43.88,
   "52_week_low": 68.24,
   "52_week_high": 373.0,
   "dividend_rate": 0.52,
   "ex_dividend_date": "2026-02-13",
-  "next_earnings_date": "2026-02-02"
+  "next_earnings_date": "2026-04-28"
 }

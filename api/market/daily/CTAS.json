@@ -1,13 +1,13 @@
 {
   "ticker": "CTAS",
-  "updated_at": "2026-04-14T15:40:37Z",
-  "current_price": 175.49,
-  "mfi_14": 55.61,
-  "pe_ratio": 36.99,
-  "forward_pe": 32.32,
+  "updated_at": "2026-04-15T11:16:59Z",
+  "current_price": 176.14,
+  "mfi_14": 57.38,
+  "pe_ratio": 37.16,
+  "forward_pe": 32.47,
   "52_week_low": 165.6,
   "52_week_high": 229.24,
   "dividend_rate": 1.8,
-  "ex_dividend_date": "2026-02-13",
+  "ex_dividend_date": "2026-05-15",
   "next_earnings_date": "2026-03-25"
 }

@@ -1,12 +1,12 @@
 {
   "ticker": "TMUS",
-  "updated_at": "2026-04-14T15:38:52Z",
-  "current_price": 190.27,
-  "mfi_14": 27.66,
-  "pe_ratio": 19.56,
+  "updated_at": "2026-04-15T11:14:46Z",
+  "current_price": 190.0,
+  "mfi_14": 26.14,
+  "pe_ratio": 19.53,
   "forward_pe": 13.65,
   "52_week_low": 181.36,
-  "52_week_high": 267.96,
+  "52_week_high": 267.27,
   "dividend_rate": 4.08,
   "ex_dividend_date": "2026-05-29",
   "next_earnings_date": "2026-04-28"

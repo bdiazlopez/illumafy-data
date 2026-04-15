@@ -1,13 +1,13 @@
 {
   "ticker": "APA",
-  "updated_at": "2026-04-14T15:44:23Z",
-  "current_price": 37.28,
-  "mfi_14": 63.05,
-  "pe_ratio": 9.34,
-  "forward_pe": 9.6,
-  "52_week_low": 14.81,
+  "updated_at": "2026-04-15T11:21:17Z",
+  "current_price": 37.03,
+  "mfi_14": 61.08,
+  "pe_ratio": 9.28,
+  "forward_pe": 9.54,
+  "52_week_low": 14.84,
   "52_week_high": 45.66,
   "dividend_rate": 1.0,
   "ex_dividend_date": "2026-04-22",
-  "next_earnings_date": "2026-02-25"
+  "next_earnings_date": "2026-05-06"
 }

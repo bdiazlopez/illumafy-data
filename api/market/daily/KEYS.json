@@ -1,12 +1,12 @@
 {
   "ticker": "KEYS",
-  "updated_at": "2026-04-14T15:41:09Z",
-  "current_price": 332.39,
-  "mfi_14": 60.34,
-  "pe_ratio": 58.31,
-  "forward_pe": 32.38,
+  "updated_at": "2026-04-15T11:17:39Z",
+  "current_price": 330.46,
+  "mfi_14": 62.21,
+  "pe_ratio": 58.18,
+  "forward_pe": 32.1,
   "52_week_low": 129.88,
-  "52_week_high": 334.5,
+  "52_week_high": 334.99,
   "dividend_rate": "N/A",
   "ex_dividend_date": null,
   "next_earnings_date": "2026-02-23"

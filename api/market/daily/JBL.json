@@ -1,12 +1,12 @@
 {
   "ticker": "JBL",
-  "updated_at": "2026-04-14T15:42:24Z",
-  "current_price": 307.95,
-  "mfi_14": 72.34,
-  "pe_ratio": 41.52,
-  "forward_pe": 21.15,
+  "updated_at": "2026-04-15T11:19:19Z",
+  "current_price": 305.97,
+  "mfi_14": 73.91,
+  "pe_ratio": 41.12,
+  "forward_pe": 21.01,
   "52_week_low": 127.72,
-  "52_week_high": 308.15,
+  "52_week_high": 310.7,
   "dividend_rate": 0.32,
   "ex_dividend_date": "2026-02-17",
   "next_earnings_date": "2026-03-18"

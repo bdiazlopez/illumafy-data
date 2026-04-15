@@ -1,12 +1,12 @@
 {
   "ticker": "CAG",
-  "updated_at": "2026-04-14T15:45:07Z",
-  "current_price": 14.31,
-  "mfi_14": 30.46,
+  "updated_at": "2026-04-15T11:22:29Z",
+  "current_price": 14.28,
+  "mfi_14": 29.03,
   "pe_ratio": null,
-  "forward_pe": 8.38,
+  "forward_pe": 8.36,
   "52_week_low": 14.22,
-  "52_week_high": 26.29,
+  "52_week_high": 25.78,
   "dividend_rate": 1.4,
   "ex_dividend_date": "2026-04-30",
   "next_earnings_date": "2026-04-01"

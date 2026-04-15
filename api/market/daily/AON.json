@@ -1,12 +1,12 @@
 {
   "ticker": "AON",
-  "updated_at": "2026-04-14T15:40:36Z",
-  "current_price": 322.15,
-  "mfi_14": 53.18,
-  "pe_ratio": 18.93,
-  "forward_pe": 15.06,
+  "updated_at": "2026-04-15T11:16:55Z",
+  "current_price": 323.02,
+  "mfi_14": 55.4,
+  "pe_ratio": 18.98,
+  "forward_pe": 15.1,
   "52_week_low": 304.59,
-  "52_week_high": 386.45,
+  "52_week_high": 382.32,
   "dividend_rate": 3.28,
   "ex_dividend_date": "2026-05-01",
   "next_earnings_date": "2026-05-01"

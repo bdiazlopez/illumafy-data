@@ -1,13 +1,13 @@
 {
   "ticker": "UBER",
-  "updated_at": "2026-04-14T15:39:16Z",
-  "current_price": 72.63,
-  "mfi_14": 47.15,
-  "pe_ratio": 15.36,
-  "forward_pe": 16.93,
+  "updated_at": "2026-04-15T11:15:15Z",
+  "current_price": 72.91,
+  "mfi_14": 50.72,
+  "pe_ratio": 15.41,
+  "forward_pe": 16.98,
   "52_week_low": 68.46,
   "52_week_high": 101.99,
   "dividend_rate": "N/A",
   "ex_dividend_date": null,
-  "next_earnings_date": "2026-02-04"
+  "next_earnings_date": "2026-05-06"
 }

@@ -1,13 +1,13 @@
 {
   "ticker": "HII",
-  "updated_at": "2026-04-14T15:44:05Z",
-  "current_price": 397.52,
-  "mfi_14": 55.04,
-  "pe_ratio": 25.8,
-  "forward_pe": 19.5,
+  "updated_at": "2026-04-15T11:21:09Z",
+  "current_price": 398.07,
+  "mfi_14": 56.88,
+  "pe_ratio": 25.83,
+  "forward_pe": 19.56,
   "52_week_low": 211.49,
   "52_week_high": 460.0,
   "dividend_rate": 5.52,
   "ex_dividend_date": "2026-02-27",
-  "next_earnings_date": "2026-02-05"
+  "next_earnings_date": "2026-05-05"
 }

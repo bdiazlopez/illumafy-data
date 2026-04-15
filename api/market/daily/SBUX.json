@@ -1,13 +1,13 @@
 {
   "ticker": "SBUX",
-  "updated_at": "2026-04-14T15:39:42Z",
-  "current_price": 98.68,
-  "mfi_14": 55.27,
-  "pe_ratio": 82.36,
-  "forward_pe": 33.54,
+  "updated_at": "2026-04-15T11:15:49Z",
+  "current_price": 98.47,
+  "mfi_14": 56.99,
+  "pe_ratio": 82.06,
+  "forward_pe": 33.39,
   "52_week_low": 75.5,
   "52_week_high": 104.82,
   "dividend_rate": 2.48,
   "ex_dividend_date": "2026-02-13",
-  "next_earnings_date": "2026-01-28"
+  "next_earnings_date": "2026-04-28"
 }

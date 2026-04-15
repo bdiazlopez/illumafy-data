@@ -1,12 +1,12 @@
 {
   "ticker": "MRSH",
-  "updated_at": "2026-04-14T15:40:10Z",
-  "current_price": 173.21,
-  "mfi_14": 55.69,
-  "pe_ratio": 20.53,
-  "forward_pe": 15.29,
+  "updated_at": "2026-04-15T11:16:17Z",
+  "current_price": 172.85,
+  "mfi_14": 57.41,
+  "pe_ratio": 20.48,
+  "forward_pe": 15.3,
   "52_week_low": 164.89,
-  "52_week_high": 238.12,
+  "52_week_high": 235.78,
   "dividend_rate": 3.6,
   "ex_dividend_date": "2026-04-09",
   "next_earnings_date": "2026-04-16"

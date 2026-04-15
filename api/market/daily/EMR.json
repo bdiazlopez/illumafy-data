@@ -1,13 +1,13 @@
 {
   "ticker": "EMR",
-  "updated_at": "2026-04-14T15:40:12Z",
-  "current_price": 145.18,
-  "mfi_14": 66.45,
-  "pe_ratio": 35.66,
-  "forward_pe": 20.31,
+  "updated_at": "2026-04-15T11:16:34Z",
+  "current_price": 144.56,
+  "mfi_14": 67.64,
+  "pe_ratio": 35.43,
+  "forward_pe": 20.22,
   "52_week_low": 95.31,
   "52_week_high": 165.15,
   "dividend_rate": 2.22,
   "ex_dividend_date": "2026-02-13",
-  "next_earnings_date": "2026-02-03"
+  "next_earnings_date": "2026-05-05"
 }

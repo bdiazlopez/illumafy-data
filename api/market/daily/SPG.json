@@ -1,13 +1,13 @@
 {
   "ticker": "SPG",
-  "updated_at": "2026-04-14T15:40:24Z",
-  "current_price": 201.82,
-  "mfi_14": 83.39,
-  "pe_ratio": 14.25,
-  "forward_pe": 29.21,
+  "updated_at": "2026-04-15T11:16:46Z",
+  "current_price": 202.96,
+  "mfi_14": 84.85,
+  "pe_ratio": 14.32,
+  "forward_pe": 29.36,
   "52_week_low": 145.84,
   "52_week_high": 205.12,
   "dividend_rate": 8.65,
   "ex_dividend_date": "2026-03-10",
-  "next_earnings_date": "2026-02-02"
+  "next_earnings_date": "2026-05-11"
 }

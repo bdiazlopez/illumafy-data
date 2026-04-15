@@ -1,13 +1,13 @@
 {
   "ticker": "WMB",
-  "updated_at": "2026-04-14T15:40:03Z",
-  "current_price": 71.33,
-  "mfi_14": 33.12,
-  "pe_ratio": 33.31,
-  "forward_pe": 27.33,
+  "updated_at": "2026-04-15T11:16:10Z",
+  "current_price": 71.44,
+  "mfi_14": 31.81,
+  "pe_ratio": 33.38,
+  "forward_pe": 27.39,
   "52_week_low": 55.56,
   "52_week_high": 76.87,
   "dividend_rate": 2.1,
   "ex_dividend_date": "2026-03-13",
-  "next_earnings_date": "2026-02-10"
+  "next_earnings_date": "2026-05-04"
 }

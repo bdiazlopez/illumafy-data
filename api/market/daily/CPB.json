@@ -1,12 +1,12 @@
 {
   "ticker": "CPB",
-  "updated_at": "2026-04-14T15:45:09Z",
-  "current_price": 19.78,
-  "mfi_14": 53.33,
-  "pe_ratio": 10.75,
-  "forward_pe": 8.83,
+  "updated_at": "2026-04-15T11:22:32Z",
+  "current_price": 20.0,
+  "mfi_14": 50.7,
+  "pe_ratio": 10.87,
+  "forward_pe": 8.91,
   "52_week_low": 19.77,
-  "52_week_high": 38.99,
+  "52_week_high": 38.27,
   "dividend_rate": 1.56,
   "ex_dividend_date": "2026-04-02",
   "next_earnings_date": "2026-03-11"

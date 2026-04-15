@@ -1,13 +1,13 @@
 {
   "ticker": "SOLV",
-  "updated_at": "2026-04-14T15:44:39Z",
-  "current_price": 68.92,
-  "mfi_14": 75.65,
+  "updated_at": "2026-04-15T11:22:00Z",
+  "current_price": 69.02,
+  "mfi_14": 77.21,
   "pe_ratio": 7.77,
   "forward_pe": 9.8,
   "52_week_low": 62.38,
   "52_week_high": 88.2,
   "dividend_rate": "N/A",
   "ex_dividend_date": null,
-  "next_earnings_date": "2026-02-26"
+  "next_earnings_date": "2026-05-05"
 }

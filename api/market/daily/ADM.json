@@ -1,13 +1,13 @@
 {
   "ticker": "ADM",
-  "updated_at": "2026-04-14T15:42:07Z",
-  "current_price": 69.25,
-  "mfi_14": 59.73,
-  "pe_ratio": 31.04,
-  "forward_pe": 14.25,
-  "52_week_low": 45.42,
+  "updated_at": "2026-04-15T11:18:40Z",
+  "current_price": 68.84,
+  "mfi_14": 56.98,
+  "pe_ratio": 30.87,
+  "forward_pe": 14.17,
+  "52_week_low": 45.87,
   "52_week_high": 74.19,
   "dividend_rate": 2.08,
   "ex_dividend_date": "2026-02-17",
-  "next_earnings_date": "2026-02-03"
+  "next_earnings_date": "2026-05-05"
 }
