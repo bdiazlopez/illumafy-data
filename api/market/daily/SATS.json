@@ -1,12 +1,12 @@
 {
   "ticker": "SATS",
-  "updated_at": "2026-04-15T11:18:35Z",
-  "current_price": 130.47,
-  "mfi_14": 78.3,
+  "updated_at": "2026-04-16T11:22:44Z",
+  "current_price": 131.39,
+  "mfi_14": 76.7,
   "pe_ratio": null,
-  "forward_pe": -88.81,
+  "forward_pe": -89.43,
   "52_week_low": 14.9,
-  "52_week_high": 132.43,
+  "52_week_high": 135.88,
   "dividend_rate": "N/A",
   "ex_dividend_date": null,
   "next_earnings_date": "2026-03-02"

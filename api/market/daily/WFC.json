@@ -1,13 +1,13 @@
 {
   "ticker": "WFC",
-  "updated_at": "2026-04-15T11:14:41Z",
-  "current_price": 81.7,
-  "mfi_14": 53.87,
-  "pe_ratio": 12.63,
-  "forward_pe": 10.3,
-  "52_week_low": 63.37,
+  "updated_at": "2026-04-16T11:19:06Z",
+  "current_price": 80.29,
+  "mfi_14": 42.43,
+  "pe_ratio": 12.41,
+  "forward_pe": 10.18,
+  "52_week_low": 63.4,
   "52_week_high": 97.76,
   "dividend_rate": 1.8,
   "ex_dividend_date": "2026-02-06",
-  "next_earnings_date": "2026-04-14"
+  "next_earnings_date": "2026-07-14"
 }

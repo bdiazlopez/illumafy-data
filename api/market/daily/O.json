@@ -1,13 +1,13 @@
 {
   "ticker": "O",
-  "updated_at": "2026-04-15T11:17:24Z",
-  "current_price": 63.81,
-  "mfi_14": 81.13,
-  "pe_ratio": 54.54,
-  "forward_pe": 36.35,
+  "updated_at": "2026-04-16T11:21:34Z",
+  "current_price": 63.96,
+  "mfi_14": 88.2,
+  "pe_ratio": 54.67,
+  "forward_pe": 35.44,
   "52_week_low": 54.38,
   "52_week_high": 67.94,
-  "dividend_rate": 3.23,
-  "ex_dividend_date": "2026-03-31",
+  "dividend_rate": 3.24,
+  "ex_dividend_date": "2026-04-30",
   "next_earnings_date": "2026-05-06"
 }

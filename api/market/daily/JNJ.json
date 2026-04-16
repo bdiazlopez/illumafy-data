@@ -1,13 +1,13 @@
 {
   "ticker": "JNJ",
-  "updated_at": "2026-04-15T11:14:15Z",
-  "current_price": 240.1,
+  "updated_at": "2026-04-16T11:18:41Z",
+  "current_price": 238.67,
   "mfi_14": 66.93,
-  "pe_ratio": 21.79,
-  "forward_pe": 19.01,
+  "pe_ratio": 21.64,
+  "forward_pe": 18.8,
   "52_week_low": 146.12,
   "52_week_high": 251.71,
   "dividend_rate": 5.36,
   "ex_dividend_date": "2026-05-26",
-  "next_earnings_date": "2026-04-14"
+  "next_earnings_date": "2026-07-15"
 }

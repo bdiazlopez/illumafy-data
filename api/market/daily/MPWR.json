@@ -1,13 +1,13 @@
 {
   "ticker": "MPWR",
-  "updated_at": "2026-04-15T11:17:21Z",
-  "current_price": 1363.42,
-  "mfi_14": 76.9,
-  "pe_ratio": 106.35,
-  "forward_pe": 52.6,
+  "updated_at": "2026-04-16T11:21:19Z",
+  "current_price": 1353.0,
+  "mfi_14": 71.01,
+  "pe_ratio": 105.29,
+  "forward_pe": 52.2,
   "52_week_low": 496.4,
   "52_week_high": 1378.55,
   "dividend_rate": 8.0,
   "ex_dividend_date": "2026-03-31",
-  "next_earnings_date": "2026-02-05"
+  "next_earnings_date": "2026-04-30"
 }

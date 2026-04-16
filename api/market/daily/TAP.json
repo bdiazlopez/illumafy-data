@@ -1,12 +1,12 @@
 {
   "ticker": "TAP",
-  "updated_at": "2026-04-15T11:22:21Z",
-  "current_price": 43.66,
-  "mfi_14": 56.68,
+  "updated_at": "2026-04-16T11:26:19Z",
+  "current_price": 44.31,
+  "mfi_14": 62.85,
   "pe_ratio": null,
-  "forward_pe": 8.71,
+  "forward_pe": 8.84,
   "52_week_low": 41.04,
-  "52_week_high": 60.84,
+  "52_week_high": 59.7,
   "dividend_rate": 1.92,
   "ex_dividend_date": "2026-03-06",
   "next_earnings_date": "2026-04-30"

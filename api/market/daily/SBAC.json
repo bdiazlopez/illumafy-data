@@ -1,13 +1,13 @@
 {
   "ticker": "SBAC",
-  "updated_at": "2026-04-15T11:20:21Z",
-  "current_price": 218.08,
-  "mfi_14": 77.97,
-  "pe_ratio": 22.28,
-  "forward_pe": 27.34,
+  "updated_at": "2026-04-16T11:24:14Z",
+  "current_price": 214.2,
+  "mfi_14": 75.53,
+  "pe_ratio": 21.83,
+  "forward_pe": 26.85,
   "52_week_low": 162.41,
   "52_week_high": 245.16,
   "dividend_rate": 5.0,
   "ex_dividend_date": "2026-03-13",
-  "next_earnings_date": "2026-02-26"
+  "next_earnings_date": "2026-04-29"
 }

@@ -1,13 +1,13 @@
 {
   "ticker": "AEE",
-  "updated_at": "2026-04-15T11:19:04Z",
-  "current_price": 111.86,
-  "mfi_14": 73.64,
-  "pe_ratio": 20.91,
-  "forward_pe": 19.32,
+  "updated_at": "2026-04-16T11:23:17Z",
+  "current_price": 110.74,
+  "mfi_14": 67.91,
+  "pe_ratio": 20.7,
+  "forward_pe": 19.13,
   "52_week_low": 93.27,
   "52_week_high": 115.53,
   "dividend_rate": 3.0,
   "ex_dividend_date": "2026-03-10",
-  "next_earnings_date": "2026-02-11"
+  "next_earnings_date": "2026-05-05"
 }

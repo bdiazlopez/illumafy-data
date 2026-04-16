@@ -1,13 +1,13 @@
 {
   "ticker": "KMI",
-  "updated_at": "2026-04-15T11:16:39Z",
-  "current_price": 31.65,
-  "mfi_14": 42.18,
-  "pe_ratio": 23.1,
-  "forward_pe": 21.59,
+  "updated_at": "2026-04-16T11:21:11Z",
+  "current_price": 31.7,
+  "mfi_14": 34.42,
+  "pe_ratio": 23.14,
+  "forward_pe": 21.63,
   "52_week_low": 25.43,
   "52_week_high": 34.73,
   "dividend_rate": 1.17,
   "ex_dividend_date": "2026-02-02",
-  "next_earnings_date": "2026-01-21"
+  "next_earnings_date": "2026-04-22"
 }

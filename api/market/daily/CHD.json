@@ -1,12 +1,12 @@
 {
   "ticker": "CHD",
-  "updated_at": "2026-04-15T11:20:19Z",
-  "current_price": 95.53,
-  "mfi_14": 60.23,
-  "pe_ratio": 31.63,
-  "forward_pe": 23.85,
+  "updated_at": "2026-04-16T11:24:22Z",
+  "current_price": 94.63,
+  "mfi_14": 53.88,
+  "pe_ratio": 31.33,
+  "forward_pe": 23.63,
   "52_week_low": 81.33,
-  "52_week_high": 106.12,
+  "52_week_high": 106.04,
   "dividend_rate": 1.23,
   "ex_dividend_date": "2026-02-13",
   "next_earnings_date": "2026-05-01"

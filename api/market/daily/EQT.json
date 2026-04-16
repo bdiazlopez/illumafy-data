@@ -1,13 +1,13 @@
 {
   "ticker": "EQT",
-  "updated_at": "2026-04-15T11:18:25Z",
-  "current_price": 56.71,
-  "mfi_14": 31.97,
-  "pe_ratio": 17.13,
-  "forward_pe": 12.14,
+  "updated_at": "2026-04-16T11:22:51Z",
+  "current_price": 56.76,
+  "mfi_14": 25.04,
+  "pe_ratio": 17.15,
+  "forward_pe": 12.15,
   "52_week_low": 47.14,
   "52_week_high": 68.24,
   "dividend_rate": 0.66,
-  "ex_dividend_date": "2026-02-17",
+  "ex_dividend_date": "2026-05-06",
   "next_earnings_date": "2026-04-21"
 }

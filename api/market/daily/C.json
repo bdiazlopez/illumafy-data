@@ -1,13 +1,13 @@
 {
   "ticker": "C",
-  "updated_at": "2026-04-15T11:14:52Z",
-  "current_price": 129.58,
-  "mfi_14": 63.98,
-  "pe_ratio": 16.02,
-  "forward_pe": 10.51,
-  "52_week_low": 61.3,
-  "52_week_high": 130.99,
+  "updated_at": "2026-04-16T11:19:10Z",
+  "current_price": 131.69,
+  "mfi_14": 64.97,
+  "pe_ratio": 16.28,
+  "forward_pe": 10.68,
+  "52_week_low": 61.84,
+  "52_week_high": 132.86,
   "dividend_rate": 2.4,
   "ex_dividend_date": "2026-05-04",
-  "next_earnings_date": "2026-04-14"
+  "next_earnings_date": "2026-07-14"
 }

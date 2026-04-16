@@ -1,12 +1,12 @@
 {
   "ticker": "ERIE",
-  "updated_at": "2026-04-15T11:21:40Z",
-  "current_price": 249.43,
-  "mfi_14": 63.05,
-  "pe_ratio": 23.31,
-  "forward_pe": 17.8,
+  "updated_at": "2026-04-16T11:25:41Z",
+  "current_price": 244.53,
+  "mfi_14": 60.26,
+  "pe_ratio": 22.87,
+  "forward_pe": 17.45,
   "52_week_low": 233.82,
-  "52_week_high": 421.0,
+  "52_week_high": 417.88,
   "dividend_rate": 5.85,
   "ex_dividend_date": "2026-04-07",
   "next_earnings_date": "2026-04-23"

@@ -1,13 +1,13 @@
 {
   "ticker": "TYL",
-  "updated_at": "2026-04-15T11:21:27Z",
-  "current_price": 322.31,
-  "mfi_14": 51.35,
-  "pe_ratio": 44.83,
-  "forward_pe": 22.71,
+  "updated_at": "2026-04-16T11:25:31Z",
+  "current_price": 337.61,
+  "mfi_14": 57.73,
+  "pe_ratio": 46.96,
+  "forward_pe": 23.79,
   "52_week_low": 283.72,
   "52_week_high": 621.34,
   "dividend_rate": "N/A",
   "ex_dividend_date": "1990-01-31",
-  "next_earnings_date": "2026-02-11"
+  "next_earnings_date": "2026-04-29"
 }

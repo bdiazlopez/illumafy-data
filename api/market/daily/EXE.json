@@ -1,13 +1,13 @@
 {
   "ticker": "EXE",
-  "updated_at": "2026-04-15T11:19:57Z",
-  "current_price": 95.69,
-  "mfi_14": 20.86,
-  "pe_ratio": 12.64,
-  "forward_pe": 10.02,
+  "updated_at": "2026-04-16T11:24:16Z",
+  "current_price": 96.05,
+  "mfi_14": 13.3,
+  "pe_ratio": 12.69,
+  "forward_pe": 10.01,
   "52_week_low": 91.02,
   "52_week_high": 126.62,
   "dividend_rate": 3.19,
   "ex_dividend_date": "2026-03-05",
-  "next_earnings_date": "2026-02-17"
+  "next_earnings_date": "2026-04-28"
 }

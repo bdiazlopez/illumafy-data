@@ -1,13 +1,13 @@
 {
   "ticker": "GNRC",
-  "updated_at": "2026-04-15T11:21:57Z",
-  "current_price": 211.87,
-  "mfi_14": 41.62,
-  "pe_ratio": 78.76,
-  "forward_pe": 20.26,
+  "updated_at": "2026-04-16T11:25:46Z",
+  "current_price": 204.4,
+  "mfi_14": 53.42,
+  "pe_ratio": 78.62,
+  "forward_pe": 19.55,
   "52_week_low": 104.9,
   "52_week_high": 241.09,
   "dividend_rate": "N/A",
   "ex_dividend_date": "2013-06-10",
-  "next_earnings_date": "2026-02-11"
+  "next_earnings_date": "2026-04-29"
 }

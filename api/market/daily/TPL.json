@@ -1,13 +1,13 @@
 {
   "ticker": "TPL",
-  "updated_at": "2026-04-15T11:19:03Z",
-  "current_price": 412.2,
-  "mfi_14": 24.11,
-  "pe_ratio": 59.14,
-  "forward_pe": 5.64,
+  "updated_at": "2026-04-16T11:23:33Z",
+  "current_price": 417.3,
+  "mfi_14": 28.4,
+  "pe_ratio": 59.87,
+  "forward_pe": 5.71,
   "52_week_low": 269.23,
   "52_week_high": 547.2,
   "dividend_rate": 2.4,
   "ex_dividend_date": "2026-03-02",
-  "next_earnings_date": "2026-02-18"
+  "next_earnings_date": "2026-05-06"
 }

@@ -1,12 +1,12 @@
 {
   "ticker": "ELV",
-  "updated_at": "2026-04-15T11:16:56Z",
-  "current_price": 313.35,
-  "mfi_14": 63.86,
-  "pe_ratio": 12.42,
-  "forward_pe": 10.67,
+  "updated_at": "2026-04-16T11:21:13Z",
+  "current_price": 311.18,
+  "mfi_14": 56.55,
+  "pe_ratio": 12.34,
+  "forward_pe": 10.59,
   "52_week_low": 273.71,
-  "52_week_high": 441.39,
+  "52_week_high": 437.99,
   "dividend_rate": 6.88,
   "ex_dividend_date": "2026-03-10",
   "next_earnings_date": "2026-04-22"

@@ -1,12 +1,12 @@
 {
   "ticker": "GIS",
-  "updated_at": "2026-04-15T11:20:37Z",
-  "current_price": 34.7,
-  "mfi_14": 33.62,
-  "pe_ratio": 8.48,
-  "forward_pe": 10.56,
+  "updated_at": "2026-04-16T11:24:58Z",
+  "current_price": 34.49,
+  "mfi_14": 35.13,
+  "pe_ratio": 8.43,
+  "forward_pe": 10.49,
   "52_week_low": 34.04,
-  "52_week_high": 58.47,
+  "52_week_high": 58.45,
   "dividend_rate": 2.44,
   "ex_dividend_date": "2026-04-10",
   "next_earnings_date": "2026-03-18"

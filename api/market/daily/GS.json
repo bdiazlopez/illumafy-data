@@ -1,13 +1,13 @@
 {
   "ticker": "GS",
-  "updated_at": "2026-04-15T11:14:40Z",
-  "current_price": 909.63,
-  "mfi_14": 54.82,
-  "pe_ratio": 16.61,
-  "forward_pe": 13.92,
-  "52_week_low": 492.69,
+  "updated_at": "2026-04-16T11:19:04Z",
+  "current_price": 899.49,
+  "mfi_14": 56.21,
+  "pe_ratio": 16.42,
+  "forward_pe": 13.78,
+  "52_week_low": 494.68,
   "52_week_high": 984.7,
   "dividend_rate": 18.0,
-  "ex_dividend_date": "2026-03-02",
+  "ex_dividend_date": "2026-06-01",
   "next_earnings_date": "2026-07-14"
 }

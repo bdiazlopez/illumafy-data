@@ -1,13 +1,13 @@
 {
   "ticker": "LVS",
-  "updated_at": "2026-04-15T11:18:33Z",
-  "current_price": 55.52,
-  "mfi_14": 57.84,
-  "pe_ratio": 23.63,
-  "forward_pe": 15.1,
-  "52_week_low": 31.6,
+  "updated_at": "2026-04-16T11:22:46Z",
+  "current_price": 56.26,
+  "mfi_14": 56.88,
+  "pe_ratio": 23.94,
+  "forward_pe": 15.3,
+  "52_week_low": 32.14,
   "52_week_high": 70.45,
   "dividend_rate": 1.05,
   "ex_dividend_date": "2026-02-09",
-  "next_earnings_date": "2026-01-28"
+  "next_earnings_date": "2026-04-22"
 }

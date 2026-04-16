@@ -1,13 +1,13 @@
 {
   "ticker": "IQV",
-  "updated_at": "2026-04-15T11:19:20Z",
-  "current_price": 175.28,
-  "mfi_14": 67.84,
-  "pe_ratio": 22.36,
-  "forward_pe": 12.44,
+  "updated_at": "2026-04-16T11:23:26Z",
+  "current_price": 178.1,
+  "mfi_14": 67.71,
+  "pe_ratio": 22.72,
+  "forward_pe": 12.64,
   "52_week_low": 134.65,
   "52_week_high": 247.05,
   "dividend_rate": "N/A",
   "ex_dividend_date": null,
-  "next_earnings_date": "2026-02-05"
+  "next_earnings_date": "2026-05-05"
 }
