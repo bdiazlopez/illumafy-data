@@ -1,13 +1,13 @@
 {
   "ticker": "HUM",
-  "updated_at": "2026-04-16T11:24:08Z",
-  "current_price": 198.37,
-  "mfi_14": 70.35,
-  "pe_ratio": 20.16,
-  "forward_pe": 13.18,
+  "updated_at": "2026-04-17T11:16:10Z",
+  "current_price": 200.76,
+  "mfi_14": 71.33,
+  "pe_ratio": 20.4,
+  "forward_pe": 13.25,
   "52_week_low": 163.11,
   "52_week_high": 315.35,
   "dividend_rate": 3.54,
-  "ex_dividend_date": "2026-03-27",
+  "ex_dividend_date": "2026-06-26",
   "next_earnings_date": "2026-04-29"
 }

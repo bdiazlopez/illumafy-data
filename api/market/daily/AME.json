@@ -1,13 +1,13 @@
 {
   "ticker": "AME",
-  "updated_at": "2026-04-16T11:21:51Z",
-  "current_price": 230.1,
-  "mfi_14": 53.35,
-  "pe_ratio": 35.95,
-  "forward_pe": 26.39,
+  "updated_at": "2026-04-17T11:13:59Z",
+  "current_price": 230.24,
+  "mfi_14": 54.21,
+  "pe_ratio": 35.98,
+  "forward_pe": 26.41,
   "52_week_low": 153.73,
   "52_week_high": 242.05,
   "dividend_rate": 1.36,
   "ex_dividend_date": "2026-03-16",
-  "next_earnings_date": "2026-02-03"
+  "next_earnings_date": "2026-04-30"
 }

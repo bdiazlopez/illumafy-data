@@ -1,13 +1,13 @@
 {
   "ticker": "DDOG",
-  "updated_at": "2026-04-16T11:22:36Z",
-  "current_price": 121.06,
-  "mfi_14": 47.76,
-  "pe_ratio": 390.52,
-  "forward_pe": 45.92,
+  "updated_at": "2026-04-17T11:14:42Z",
+  "current_price": 123.47,
+  "mfi_14": 55.64,
+  "pe_ratio": 398.29,
+  "forward_pe": 46.83,
   "52_week_low": 87.69,
   "52_week_high": 201.69,
   "dividend_rate": "N/A",
   "ex_dividend_date": null,
-  "next_earnings_date": "2026-02-10"
+  "next_earnings_date": "2026-05-07"
 }

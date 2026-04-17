@@ -1,13 +1,13 @@
 {
   "ticker": "ES",
-  "updated_at": "2026-04-16T11:23:52Z",
-  "current_price": 68.77,
-  "mfi_14": 63.26,
-  "pe_ratio": 15.08,
-  "forward_pe": 13.52,
+  "updated_at": "2026-04-17T11:15:55Z",
+  "current_price": 69.18,
+  "mfi_14": 62.66,
+  "pe_ratio": 15.17,
+  "forward_pe": 13.64,
   "52_week_low": 55.56,
   "52_week_high": 76.41,
   "dividend_rate": 3.15,
   "ex_dividend_date": "2026-03-05",
-  "next_earnings_date": "2026-02-12"
+  "next_earnings_date": "2026-05-06"
 }

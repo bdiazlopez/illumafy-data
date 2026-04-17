@@ -1,13 +1,13 @@
 {
   "ticker": "FSLR",
-  "updated_at": "2026-04-16T11:24:32Z",
-  "current_price": 195.2,
-  "mfi_14": 48.71,
-  "pe_ratio": 13.74,
-  "forward_pe": 8.02,
+  "updated_at": "2026-04-17T11:16:33Z",
+  "current_price": 191.65,
+  "mfi_14": 47.0,
+  "pe_ratio": 13.5,
+  "forward_pe": 7.87,
   "52_week_low": 119.09,
   "52_week_high": 285.99,
   "dividend_rate": "N/A",
   "ex_dividend_date": null,
-  "next_earnings_date": "2026-02-24"
+  "next_earnings_date": "2026-04-30"
 }

@@ -1,13 +1,13 @@
 {
   "ticker": "PNC",
-  "updated_at": "2026-04-16T11:20:30Z",
-  "current_price": 222.06,
-  "mfi_14": 67.64,
-  "pe_ratio": 12.9,
-  "forward_pe": 10.73,
+  "updated_at": "2026-04-17T11:12:44Z",
+  "current_price": 220.07,
+  "mfi_14": 66.97,
+  "pe_ratio": 12.79,
+  "forward_pe": 10.53,
   "52_week_low": 148.28,
   "52_week_high": 243.94,
   "dividend_rate": 6.8,
   "ex_dividend_date": "2026-04-14",
-  "next_earnings_date": "2026-04-15"
+  "next_earnings_date": "2026-07-15"
 }

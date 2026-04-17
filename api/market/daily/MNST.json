@@ -1,13 +1,13 @@
 {
   "ticker": "MNST",
-  "updated_at": "2026-04-16T11:21:01Z",
-  "current_price": 74.93,
-  "mfi_14": 53.48,
-  "pe_ratio": 38.62,
-  "forward_pe": 29.54,
+  "updated_at": "2026-04-17T11:13:13Z",
+  "current_price": 75.36,
+  "mfi_14": 60.68,
+  "pe_ratio": 38.85,
+  "forward_pe": 29.71,
   "52_week_low": 57.01,
   "52_week_high": 87.38,
   "dividend_rate": "N/A",
   "ex_dividend_date": null,
-  "next_earnings_date": "2026-02-26"
+  "next_earnings_date": "2026-05-07"
 }

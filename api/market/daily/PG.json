@@ -1,12 +1,12 @@
 {
   "ticker": "PG",
-  "updated_at": "2026-04-16T11:18:54Z",
-  "current_price": 143.38,
-  "mfi_14": 46.2,
-  "pe_ratio": 21.24,
-  "forward_pe": 19.77,
+  "updated_at": "2026-04-17T11:11:11Z",
+  "current_price": 143.11,
+  "mfi_14": 51.89,
+  "pe_ratio": 21.2,
+  "forward_pe": 19.73,
   "52_week_low": 137.62,
-  "52_week_high": 171.65,
+  "52_week_high": 170.99,
   "dividend_rate": 4.26,
   "ex_dividend_date": "2026-04-24",
   "next_earnings_date": "2026-04-24"

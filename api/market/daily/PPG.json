@@ -1,13 +1,13 @@
 {
   "ticker": "PPG",
-  "updated_at": "2026-04-16T11:23:55Z",
-  "current_price": 107.72,
-  "mfi_14": 44.28,
-  "pe_ratio": 15.57,
-  "forward_pe": 12.59,
+  "updated_at": "2026-04-17T11:15:58Z",
+  "current_price": 112.16,
+  "mfi_14": 53.69,
+  "pe_ratio": 16.21,
+  "forward_pe": 13.09,
   "52_week_low": 93.39,
   "52_week_high": 133.43,
   "dividend_rate": 2.84,
-  "ex_dividend_date": "2026-02-20",
+  "ex_dividend_date": "2026-05-11",
   "next_earnings_date": "2026-04-28"
 }

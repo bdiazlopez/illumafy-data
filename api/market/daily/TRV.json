@@ -1,13 +1,13 @@
 {
   "ticker": "TRV",
-  "updated_at": "2026-04-16T11:21:28Z",
-  "current_price": 299.33,
-  "mfi_14": 70.84,
-  "pe_ratio": 10.92,
-  "forward_pe": 10.53,
+  "updated_at": "2026-04-17T11:13:37Z",
+  "current_price": 298.84,
+  "mfi_14": 69.06,
+  "pe_ratio": 8.92,
+  "forward_pe": 10.52,
   "52_week_low": 247.81,
   "52_week_high": 313.12,
-  "dividend_rate": 4.4,
-  "ex_dividend_date": "2026-03-10",
+  "dividend_rate": 5.0,
+  "ex_dividend_date": "2026-06-10",
   "next_earnings_date": "2026-04-16"
 }

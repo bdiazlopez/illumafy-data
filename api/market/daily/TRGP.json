@@ -1,13 +1,13 @@
 {
   "ticker": "TRGP",
-  "updated_at": "2026-04-16T11:21:57Z",
-  "current_price": 238.75,
-  "mfi_14": 50.23,
-  "pe_ratio": 28.09,
-  "forward_pe": 20.75,
+  "updated_at": "2026-04-17T11:14:05Z",
+  "current_price": 239.81,
+  "mfi_14": 48.45,
+  "pe_ratio": 28.25,
+  "forward_pe": 20.84,
   "52_week_low": 144.14,
   "52_week_high": 253.87,
   "dividend_rate": 4.0,
   "ex_dividend_date": "2026-01-30",
-  "next_earnings_date": "2026-02-19"
+  "next_earnings_date": "2026-05-07"
 }

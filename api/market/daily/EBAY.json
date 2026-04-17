@@ -1,12 +1,12 @@
 {
   "ticker": "EBAY",
-  "updated_at": "2026-04-16T11:22:16Z",
-  "current_price": 100.01,
-  "mfi_14": 65.59,
-  "pe_ratio": 23.48,
-  "forward_pe": 15.0,
+  "updated_at": "2026-04-17T11:14:23Z",
+  "current_price": 101.96,
+  "mfi_14": 73.35,
+  "pe_ratio": 23.93,
+  "forward_pe": 15.29,
   "52_week_low": 64.68,
-  "52_week_high": 101.33,
+  "52_week_high": 102.91,
   "dividend_rate": 1.24,
   "ex_dividend_date": "2026-03-06",
   "next_earnings_date": "2026-04-29"

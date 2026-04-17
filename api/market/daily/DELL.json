@@ -1,12 +1,12 @@
 {
   "ticker": "DELL",
-  "updated_at": "2026-04-16T11:19:59Z",
-  "current_price": 177.28,
-  "mfi_14": 38.4,
-  "pe_ratio": 20.4,
-  "forward_pe": 12.16,
+  "updated_at": "2026-04-17T11:12:13Z",
+  "current_price": 193.09,
+  "mfi_14": 49.57,
+  "pe_ratio": 22.22,
+  "forward_pe": 13.22,
   "52_week_low": 80.74,
-  "52_week_high": 191.37,
+  "52_week_high": 193.8,
   "dividend_rate": 2.52,
   "ex_dividend_date": "2026-04-21",
   "next_earnings_date": "2026-05-28"

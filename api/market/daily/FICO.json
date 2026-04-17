@@ -1,13 +1,13 @@
 {
   "ticker": "FICO",
-  "updated_at": "2026-04-16T11:24:04Z",
-  "current_price": 1030.81,
-  "mfi_14": 58.72,
-  "pe_ratio": 38.16,
-  "forward_pe": 19.42,
+  "updated_at": "2026-04-17T11:16:07Z",
+  "current_price": 1069.93,
+  "mfi_14": 59.49,
+  "pe_ratio": 39.69,
+  "forward_pe": 20.14,
   "52_week_low": 909.0,
   "52_week_high": 2217.6,
   "dividend_rate": "N/A",
   "ex_dividend_date": "2017-03-01",
-  "next_earnings_date": "2026-01-28"
+  "next_earnings_date": "2026-04-28"
 }

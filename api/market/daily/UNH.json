@@ -1,12 +1,12 @@
 {
   "ticker": "UNH",
-  "updated_at": "2026-04-16T11:19:02Z",
-  "current_price": 314.05,
-  "mfi_14": 65.57,
-  "pe_ratio": 23.76,
-  "forward_pe": 15.6,
+  "updated_at": "2026-04-17T11:11:20Z",
+  "current_price": 316.4,
+  "mfi_14": 70.59,
+  "pe_ratio": 23.92,
+  "forward_pe": 15.72,
   "52_week_low": 234.6,
-  "52_week_high": 489.79,
+  "52_week_high": 453.5,
   "dividend_rate": 8.84,
   "ex_dividend_date": "2026-03-09",
   "next_earnings_date": "2026-04-21"
