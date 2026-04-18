@@ -1,12 +1,12 @@
 {
   "ticker": "NI",
-  "updated_at": "2026-04-17T11:16:25Z",
-  "current_price": 47.72,
-  "mfi_14": 77.99,
-  "pe_ratio": 24.47,
-  "forward_pe": 21.45,
+  "updated_at": "2026-04-18T10:59:56Z",
+  "current_price": 48.31,
+  "mfi_14": 80.33,
+  "pe_ratio": 24.77,
+  "forward_pe": 21.71,
   "52_week_low": 37.22,
-  "52_week_high": 48.76,
+  "52_week_high": 48.83,
   "dividend_rate": 1.2,
   "ex_dividend_date": "2026-04-30",
   "next_earnings_date": "2026-02-11"

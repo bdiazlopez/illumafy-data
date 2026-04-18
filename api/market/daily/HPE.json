@@ -1,12 +1,12 @@
 {
   "ticker": "HPE",
-  "updated_at": "2026-04-17T11:15:08Z",
-  "current_price": 25.89,
-  "mfi_14": 51.81,
+  "updated_at": "2026-04-18T10:58:50Z",
+  "current_price": 26.44,
+  "mfi_14": 62.03,
   "pe_ratio": null,
-  "forward_pe": 9.51,
+  "forward_pe": 9.72,
   "52_week_low": 14.55,
-  "52_week_high": 26.44,
+  "52_week_high": 26.56,
   "dividend_rate": 0.57,
   "ex_dividend_date": "2026-03-24",
   "next_earnings_date": "2026-03-09"

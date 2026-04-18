@@ -1,12 +1,12 @@
 {
   "ticker": "WDC",
-  "updated_at": "2026-04-17T11:12:10Z",
-  "current_price": 361.69,
-  "mfi_14": 73.86,
-  "pe_ratio": 34.12,
-  "forward_pe": 26.18,
+  "updated_at": "2026-04-18T10:56:14Z",
+  "current_price": 372.52,
+  "mfi_14": 79.7,
+  "pe_ratio": 35.21,
+  "forward_pe": 26.84,
   "52_week_low": 35.51,
-  "52_week_high": 368.4,
+  "52_week_high": 378.98,
   "dividend_rate": 0.5,
   "ex_dividend_date": "2026-03-05",
   "next_earnings_date": "2026-04-30"

@@ -1,12 +1,12 @@
 {
   "ticker": "NUE",
-  "updated_at": "2026-04-17T11:14:28Z",
-  "current_price": 191.85,
-  "mfi_14": 76.95,
-  "pe_ratio": 25.51,
-  "forward_pe": 13.66,
+  "updated_at": "2026-04-18T10:58:16Z",
+  "current_price": 195.87,
+  "mfi_14": 83.1,
+  "pe_ratio": 26.05,
+  "forward_pe": 13.95,
   "52_week_low": 105.92,
-  "52_week_high": 196.9,
+  "52_week_high": 197.1,
   "dividend_rate": 2.24,
   "ex_dividend_date": "2026-03-31",
   "next_earnings_date": "2026-04-27"

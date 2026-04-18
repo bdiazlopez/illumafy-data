@@ -1,13 +1,13 @@
 {
   "ticker": "USB",
-  "updated_at": "2026-04-17T11:12:48Z",
-  "current_price": 55.48,
-  "mfi_14": 54.49,
-  "pe_ratio": 11.63,
-  "forward_pe": 9.93,
+  "updated_at": "2026-04-18T10:56:47Z",
+  "current_price": 56.93,
+  "mfi_14": 62.26,
+  "pe_ratio": 11.94,
+  "forward_pe": 10.17,
   "52_week_low": 37.24,
   "52_week_high": 61.19,
   "dividend_rate": 2.06,
   "ex_dividend_date": "2026-03-31",
-  "next_earnings_date": "2026-04-16"
+  "next_earnings_date": "2026-07-16"
 }

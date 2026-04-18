@@ -1,12 +1,12 @@
 {
   "ticker": "HLT",
-  "updated_at": "2026-04-17T11:13:09Z",
-  "current_price": 330.38,
-  "mfi_14": 72.86,
-  "pe_ratio": 54.07,
-  "forward_pe": 31.7,
+  "updated_at": "2026-04-18T10:57:06Z",
+  "current_price": 341.03,
+  "mfi_14": 80.48,
+  "pe_ratio": 55.91,
+  "forward_pe": 32.72,
   "52_week_low": 201.15,
-  "52_week_high": 333.86,
+  "52_week_high": 344.75,
   "dividend_rate": 0.6,
   "ex_dividend_date": "2026-02-27",
   "next_earnings_date": "2026-04-28"

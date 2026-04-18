@@ -1,12 +1,12 @@
 {
   "ticker": "JBHT",
-  "updated_at": "2026-04-17T11:16:32Z",
-  "current_price": 238.32,
-  "mfi_14": 66.38,
-  "pe_ratio": 37.06,
-  "forward_pe": 26.42,
+  "updated_at": "2026-04-18T11:00:02Z",
+  "current_price": 245.08,
+  "mfi_14": 72.51,
+  "pe_ratio": 38.0,
+  "forward_pe": 27.16,
   "52_week_low": 123.16,
-  "52_week_high": 245.08,
+  "52_week_high": 247.95,
   "dividend_rate": 1.8,
   "ex_dividend_date": "2026-02-06",
   "next_earnings_date": "2026-04-15"

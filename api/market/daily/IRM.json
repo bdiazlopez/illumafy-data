@@ -1,12 +1,12 @@
 {
   "ticker": "IRM",
-  "updated_at": "2026-04-17T11:15:03Z",
-  "current_price": 117.73,
-  "mfi_14": 85.41,
-  "pe_ratio": 240.27,
-  "forward_pe": 45.97,
+  "updated_at": "2026-04-18T10:58:45Z",
+  "current_price": 118.07,
+  "mfi_14": 93.24,
+  "pe_ratio": 236.14,
+  "forward_pe": 46.1,
   "52_week_low": 77.77,
-  "52_week_high": 118.02,
+  "52_week_high": 119.15,
   "dividend_rate": 3.46,
   "ex_dividend_date": "2026-03-16",
   "next_earnings_date": "2026-04-30"

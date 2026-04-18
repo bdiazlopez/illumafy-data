@@ -1,12 +1,12 @@
 {
   "ticker": "CIEN",
-  "updated_at": "2026-04-17T11:13:32Z",
-  "current_price": 495.17,
-  "mfi_14": 57.18,
-  "pe_ratio": 313.4,
-  "forward_pe": 59.0,
+  "updated_at": "2026-04-18T10:57:26Z",
+  "current_price": 507.43,
+  "mfi_14": 57.09,
+  "pe_ratio": 323.2,
+  "forward_pe": 60.46,
   "52_week_low": 56.94,
-  "52_week_high": 513.49,
+  "52_week_high": 513.83,
   "dividend_rate": "N/A",
   "ex_dividend_date": null,
   "next_earnings_date": "2026-03-05"

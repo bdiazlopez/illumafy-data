@@ -1,13 +1,13 @@
 {
   "ticker": "QCOM",
-  "updated_at": "2026-04-17T11:11:59Z",
-  "current_price": 134.47,
-  "mfi_14": 65.98,
-  "pe_ratio": 27.11,
-  "forward_pe": 12.15,
+  "updated_at": "2026-04-18T10:56:04Z",
+  "current_price": 136.2,
+  "mfi_14": 72.96,
+  "pe_ratio": 27.46,
+  "forward_pe": 12.33,
   "52_week_low": 121.99,
   "52_week_high": 205.95,
-  "dividend_rate": 3.56,
-  "ex_dividend_date": "2026-03-05",
+  "dividend_rate": 3.68,
+  "ex_dividend_date": "2026-06-04",
   "next_earnings_date": "2026-04-29"
 }

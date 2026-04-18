@@ -1,12 +1,12 @@
 {
   "ticker": "PLD",
-  "updated_at": "2026-04-17T11:12:08Z",
-  "current_price": 142.17,
-  "mfi_14": 69.22,
-  "pe_ratio": 40.05,
-  "forward_pe": 42.5,
+  "updated_at": "2026-04-18T10:56:11Z",
+  "current_price": 145.1,
+  "mfi_14": 75.6,
+  "pe_ratio": 40.87,
+  "forward_pe": 44.19,
   "52_week_low": 97.1,
-  "52_week_high": 145.01,
+  "52_week_high": 145.44,
   "dividend_rate": 4.28,
   "ex_dividend_date": "2026-03-17",
   "next_earnings_date": "2026-04-16"

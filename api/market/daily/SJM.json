@@ -1,13 +1,13 @@
 {
   "ticker": "SJM",
-  "updated_at": "2026-04-17T11:18:04Z",
-  "current_price": 93.94,
-  "mfi_14": 42.62,
+  "updated_at": "2026-04-18T11:01:23Z",
+  "current_price": 95.5,
+  "mfi_14": 44.36,
   "pe_ratio": null,
-  "forward_pe": 9.32,
+  "forward_pe": 9.47,
   "52_week_low": 88.25,
   "52_week_high": 119.39,
   "dividend_rate": 4.4,
-  "ex_dividend_date": "2026-02-13",
+  "ex_dividend_date": "2026-05-15",
   "next_earnings_date": "2026-02-26"
 }

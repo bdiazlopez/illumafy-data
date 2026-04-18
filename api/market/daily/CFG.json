@@ -1,13 +1,13 @@
 {
   "ticker": "CFG",
-  "updated_at": "2026-04-17T11:15:45Z",
-  "current_price": 64.41,
-  "mfi_14": 59.2,
-  "pe_ratio": 15.26,
-  "forward_pe": 10.17,
+  "updated_at": "2026-04-18T10:59:21Z",
+  "current_price": 64.45,
+  "mfi_14": 68.58,
+  "pe_ratio": 15.27,
+  "forward_pe": 10.14,
   "52_week_low": 33.95,
   "52_week_high": 68.79,
   "dividend_rate": 1.84,
-  "ex_dividend_date": "2026-02-04",
-  "next_earnings_date": "2026-04-16"
+  "ex_dividend_date": "2026-04-30",
+  "next_earnings_date": "2026-07-16"
 }

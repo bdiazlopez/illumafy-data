@@ -1,13 +1,13 @@
 {
   "ticker": "LNT",
-  "updated_at": "2026-04-17T11:16:55Z",
-  "current_price": 72.77,
-  "mfi_14": 55.31,
-  "pe_ratio": 23.18,
-  "forward_pe": 19.77,
+  "updated_at": "2026-04-18T11:00:23Z",
+  "current_price": 72.83,
+  "mfi_14": 47.82,
+  "pe_ratio": 23.19,
+  "forward_pe": 19.78,
   "52_week_low": 58.67,
   "52_week_high": 74.4,
-  "dividend_rate": 2.06,
-  "ex_dividend_date": "2026-01-30",
+  "dividend_rate": 2.09,
+  "ex_dividend_date": "2026-04-30",
   "next_earnings_date": "2026-04-30"
 }

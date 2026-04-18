@@ -1,12 +1,12 @@
 {
   "ticker": "FCX",
-  "updated_at": "2026-04-17T11:12:34Z",
-  "current_price": 68.28,
-  "mfi_14": 72.85,
-  "pe_ratio": 44.92,
-  "forward_pe": 16.97,
+  "updated_at": "2026-04-18T10:56:34Z",
+  "current_price": 70.21,
+  "mfi_14": 74.23,
+  "pe_ratio": 46.19,
+  "forward_pe": 17.46,
   "52_week_low": 32.12,
-  "52_week_high": 69.75,
+  "52_week_high": 70.7,
   "dividend_rate": 0.6,
   "ex_dividend_date": "2026-04-15",
   "next_earnings_date": "2026-04-23"

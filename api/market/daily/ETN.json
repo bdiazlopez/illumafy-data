@@ -1,12 +1,12 @@
 {
   "ticker": "ETN",
-  "updated_at": "2026-04-17T11:11:50Z",
-  "current_price": 392.73,
-  "mfi_14": 56.32,
-  "pe_ratio": 37.58,
-  "forward_pe": 25.34,
+  "updated_at": "2026-04-18T10:55:56Z",
+  "current_price": 406.21,
+  "mfi_14": 64.35,
+  "pe_ratio": 38.91,
+  "forward_pe": 26.21,
   "52_week_low": 255.1,
-  "52_week_high": 408.45,
+  "52_week_high": 410.91,
   "dividend_rate": 4.4,
   "ex_dividend_date": "2026-03-10",
   "next_earnings_date": "2026-02-03"

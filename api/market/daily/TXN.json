@@ -1,13 +1,13 @@
 {
   "ticker": "TXN",
-  "updated_at": "2026-04-17T11:11:32Z",
-  "current_price": 223.1,
-  "mfi_14": 74.96,
-  "pe_ratio": 41.01,
-  "forward_pe": 28.21,
+  "updated_at": "2026-04-18T10:55:40Z",
+  "current_price": 229.82,
+  "mfi_14": 82.7,
+  "pe_ratio": 42.17,
+  "forward_pe": 29.06,
   "52_week_low": 142.64,
   "52_week_high": 231.32,
   "dividend_rate": 5.68,
-  "ex_dividend_date": "2026-01-30",
+  "ex_dividend_date": "2026-05-05",
   "next_earnings_date": "2026-04-22"
 }

@@ -1,12 +1,12 @@
 {
   "ticker": "TT",
-  "updated_at": "2026-04-17T11:12:26Z",
-  "current_price": 460.27,
-  "mfi_14": 67.91,
-  "pe_ratio": 35.08,
-  "forward_pe": 27.34,
+  "updated_at": "2026-04-18T10:56:28Z",
+  "current_price": 476.11,
+  "mfi_14": 75.08,
+  "pe_ratio": 36.23,
+  "forward_pe": 28.26,
   "52_week_low": 318.08,
-  "52_week_high": 479.37,
+  "52_week_high": 480.51,
   "dividend_rate": 4.2,
   "ex_dividend_date": "2026-06-05",
   "next_earnings_date": "2026-04-30"

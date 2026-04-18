@@ -1,12 +1,12 @@
 {
   "ticker": "HST",
-  "updated_at": "2026-04-17T11:17:25Z",
-  "current_price": 20.57,
-  "mfi_14": 77.56,
-  "pe_ratio": 18.7,
-  "forward_pe": 21.38,
+  "updated_at": "2026-04-18T11:00:48Z",
+  "current_price": 21.12,
+  "mfi_14": 83.42,
+  "pe_ratio": 19.2,
+  "forward_pe": 21.95,
   "52_week_low": 13.32,
-  "52_week_high": 21.0,
+  "52_week_high": 21.18,
   "dividend_rate": 0.8,
   "ex_dividend_date": "2026-03-31",
   "next_earnings_date": "2026-05-06"

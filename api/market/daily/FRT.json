@@ -1,12 +1,12 @@
 {
   "ticker": "FRT",
-  "updated_at": "2026-04-17T11:18:08Z",
-  "current_price": 110.04,
-  "mfi_14": 78.2,
-  "pe_ratio": 23.51,
-  "forward_pe": 34.58,
+  "updated_at": "2026-04-18T11:01:26Z",
+  "current_price": 112.53,
+  "mfi_14": 82.6,
+  "pe_ratio": 24.04,
+  "forward_pe": 35.36,
   "52_week_low": 89.99,
-  "52_week_high": 110.89,
+  "52_week_high": 112.54,
   "dividend_rate": 4.49,
   "ex_dividend_date": "2026-04-01",
   "next_earnings_date": "2026-05-01"

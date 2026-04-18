@@ -1,13 +1,13 @@
 {
   "ticker": "FIX",
-  "updated_at": "2026-04-17T11:13:47Z",
-  "current_price": 1605.97,
-  "mfi_14": 65.34,
-  "pe_ratio": 55.55,
-  "forward_pe": 36.62,
+  "updated_at": "2026-04-18T10:57:39Z",
+  "current_price": 1650.47,
+  "mfi_14": 72.02,
+  "pe_ratio": 57.15,
+  "forward_pe": 37.64,
   "52_week_low": 321.95,
   "52_week_high": 1671.95,
   "dividend_rate": 2.25,
   "ex_dividend_date": "2026-03-06",
-  "next_earnings_date": "2026-02-19"
+  "next_earnings_date": "2026-04-23"
 }

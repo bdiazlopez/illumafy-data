@@ -1,12 +1,12 @@
 {
   "ticker": "ANET",
-  "updated_at": "2026-04-17T11:11:34Z",
-  "current_price": 161.01,
-  "mfi_14": 75.83,
-  "pe_ratio": 58.55,
-  "forward_pe": 37.56,
+  "updated_at": "2026-04-18T10:55:42Z",
+  "current_price": 164.23,
+  "mfi_14": 82.22,
+  "pe_ratio": 59.94,
+  "forward_pe": 38.26,
   "52_week_low": 66.59,
-  "52_week_high": 164.94,
+  "52_week_high": 165.28,
   "dividend_rate": "N/A",
   "ex_dividend_date": null,
   "next_earnings_date": "2026-05-05"

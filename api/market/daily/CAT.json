@@ -1,12 +1,12 @@
 {
   "ticker": "CAT",
-  "updated_at": "2026-04-17T11:11:09Z",
-  "current_price": 772.66,
-  "mfi_14": 54.14,
-  "pe_ratio": 41.14,
-  "forward_pe": 27.77,
+  "updated_at": "2026-04-18T10:55:19Z",
+  "current_price": 794.65,
+  "mfi_14": 61.7,
+  "pe_ratio": 42.2,
+  "forward_pe": 28.56,
   "52_week_low": 282.46,
-  "52_week_high": 798.54,
+  "52_week_high": 801.77,
   "dividend_rate": 6.04,
   "ex_dividend_date": "2026-04-20",
   "next_earnings_date": "2026-04-30"

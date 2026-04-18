@@ -1,12 +1,12 @@
 {
   "ticker": "CSX",
-  "updated_at": "2026-04-17T11:13:00Z",
-  "current_price": 42.72,
-  "mfi_14": 70.69,
-  "pe_ratio": 27.74,
-  "forward_pe": 20.42,
+  "updated_at": "2026-04-18T10:56:57Z",
+  "current_price": 43.32,
+  "mfi_14": 77.84,
+  "pe_ratio": 28.13,
+  "forward_pe": 20.7,
   "52_week_low": 27.0,
-  "52_week_high": 43.35,
+  "52_week_high": 43.61,
   "dividend_rate": 0.56,
   "ex_dividend_date": "2026-02-27",
   "next_earnings_date": "2026-04-22"

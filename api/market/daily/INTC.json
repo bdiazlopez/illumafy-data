@@ -1,12 +1,12 @@
 {
   "ticker": "INTC",
-  "updated_at": "2026-04-17T11:11:16Z",
+  "updated_at": "2026-04-18T10:55:26Z",
   "current_price": 68.5,
-  "mfi_14": 84.22,
+  "mfi_14": 88.39,
   "pe_ratio": null,
   "forward_pe": 65.26,
   "52_week_low": 18.25,
-  "52_week_high": 68.61,
+  "52_week_high": 70.33,
   "dividend_rate": "N/A",
   "ex_dividend_date": "2024-08-07",
   "next_earnings_date": "2026-04-23"

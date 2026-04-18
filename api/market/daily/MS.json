@@ -1,13 +1,13 @@
 {
   "ticker": "MS",
-  "updated_at": "2026-04-17T11:11:19Z",
-  "current_price": 187.32,
-  "mfi_14": 67.48,
-  "pe_ratio": 16.98,
-  "forward_pe": 14.99,
+  "updated_at": "2026-04-18T10:55:28Z",
+  "current_price": 188.82,
+  "mfi_14": 74.11,
+  "pe_ratio": 17.09,
+  "forward_pe": 15.06,
   "52_week_low": 104.78,
   "52_week_high": 194.59,
   "dividend_rate": 4.0,
-  "ex_dividend_date": "2026-01-30",
+  "ex_dividend_date": "2026-04-30",
   "next_earnings_date": "2026-07-15"
 }
