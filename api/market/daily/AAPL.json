@@ -1,10 +1,10 @@
 {
   "ticker": "AAPL",
-  "updated_at": "2026-04-18T10:55:02Z",
+  "updated_at": "2026-04-19T10:55:04Z",
   "current_price": 270.23,
   "mfi_14": 72.02,
   "pe_ratio": 34.25,
-  "forward_pe": 28.92,
+  "forward_pe": 28.9,
   "52_week_low": 189.81,
   "52_week_high": 288.62,
   "dividend_rate": 1.04,

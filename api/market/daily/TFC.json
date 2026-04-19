@@ -1,6 +1,6 @@
 {
   "ticker": "TFC",
-  "updated_at": "2026-04-18T10:57:32Z",
+  "updated_at": "2026-04-19T10:57:51Z",
   "current_price": 50.57,
   "mfi_14": 68.23,
   "pe_ratio": 13.24,
@@ -9,5 +9,5 @@
   "52_week_high": 56.2,
   "dividend_rate": 2.08,
   "ex_dividend_date": "2026-02-13",
-  "next_earnings_date": "2026-04-17"
+  "next_earnings_date": "2026-07-17"
 }

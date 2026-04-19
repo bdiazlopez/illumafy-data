@@ -1,12 +1,12 @@
 {
   "ticker": "AMD",
-  "updated_at": "2026-04-18T10:55:16Z",
+  "updated_at": "2026-04-19T10:55:20Z",
   "current_price": 278.39,
   "mfi_14": 87.89,
   "pe_ratio": 106.26,
   "forward_pe": 25.4,
   "52_week_low": 83.75,
-  "52_week_high": 280.05,
+  "52_week_high": 281.05,
   "dividend_rate": "N/A",
   "ex_dividend_date": "1995-04-27",
   "next_earnings_date": "2026-05-05"

@@ -1,12 +1,12 @@
 {
   "ticker": "CMI",
-  "updated_at": "2026-04-18T10:56:49Z",
+  "updated_at": "2026-04-19T10:57:05Z",
   "current_price": 627.18,
   "mfi_14": 72.5,
   "pe_ratio": 30.58,
   "forward_pe": 19.89,
   "52_week_low": 269.24,
-  "52_week_high": 627.86,
+  "52_week_high": 628.0,
   "dividend_rate": 7.82,
   "ex_dividend_date": "2026-02-20",
   "next_earnings_date": "2026-05-05"

@@ -1,13 +1,13 @@
 {
   "ticker": "RF",
-  "updated_at": "2026-04-18T10:59:39Z",
+  "updated_at": "2026-04-19T11:00:14Z",
   "current_price": 28.13,
   "mfi_14": 82.16,
   "pe_ratio": 11.67,
-  "forward_pe": 9.88,
+  "forward_pe": 9.86,
   "52_week_low": 18.83,
   "52_week_high": 31.53,
   "dividend_rate": 1.06,
   "ex_dividend_date": "2026-06-01",
-  "next_earnings_date": "2026-04-17"
+  "next_earnings_date": "2026-07-17"
 }
